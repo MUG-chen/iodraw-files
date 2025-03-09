@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="XZ0r5PgI1nVHzvm5A0Ag-1" value="实体（实体型）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontFamily=华文仿宋;" vertex="1" parent="1">
+        <mxCell id="XZ0r5PgI1nVHzvm5A0Ag-1" value="实体" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontFamily=华文仿宋;" vertex="1" parent="1">
           <mxGeometry x="304.5" y="500" width="156.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XZ0r5PgI1nVHzvm5A0Ag-2" value="属性（实体标识符）" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;fontFamily=华文仿宋;" vertex="1" parent="1">
@@ -80,7 +80,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XZ0r5PgI1nVHzvm5A0Ag-19" value="&lt;font face=&quot;华文仿宋&quot; style=&quot;font-size: 20px;&quot;&gt;域&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="155" y="680" width="115" height="30" as="geometry" />
+          <mxGeometry x="177" y="680" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XZ0r5PgI1nVHzvm5A0Ag-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XZ0r5PgI1nVHzvm5A0Ag-2" target="XZ0r5PgI1nVHzvm5A0Ag-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
