@@ -118,6 +118,12 @@
         <mxCell id="P-UjhzoSiUyuepz6IUfM-30" value="&lt;font face=&quot;华文仿宋&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;位于&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="584.5" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="P-UjhzoSiUyuepz6IUfM-31" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="P-UjhzoSiUyuepz6IUfM-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="630" as="sourcePoint" />
+            <mxPoint x="560" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
