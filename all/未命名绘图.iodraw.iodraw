@@ -80,7 +80,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XZ0r5PgI1nVHzvm5A0Ag-19" value="&lt;font face=&quot;华文仿宋&quot; style=&quot;font-size: 20px;&quot;&gt;域&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="155" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="155" y="680" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XZ0r5PgI1nVHzvm5A0Ag-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XZ0r5PgI1nVHzvm5A0Ag-2" target="XZ0r5PgI1nVHzvm5A0Ag-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
