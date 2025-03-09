@@ -8,7 +8,7 @@
           <mxGeometry x="-100" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P-UjhzoSiUyuepz6IUfM-2" value="&lt;font face=&quot;华文仿宋&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;教师&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="430" y="580" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P-UjhzoSiUyuepz6IUfM-3" value="&lt;font face=&quot;华文仿宋&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;课程&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="310" y="480" width="120" height="60" as="geometry" />
@@ -112,8 +112,8 @@
         <mxCell id="P-UjhzoSiUyuepz6IUfM-28" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="370" y="330" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="P-UjhzoSiUyuepz6IUfM-29" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="380" y="340" width="30" height="30" as="geometry" />
+        <mxCell id="P-UjhzoSiUyuepz6IUfM-29" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="435" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
