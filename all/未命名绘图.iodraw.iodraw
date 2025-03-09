@@ -7,7 +7,7 @@
         <mxCell id="XZ0r5PgI1nVHzvm5A0Ag-1" value="实体（实体型）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontFamily=华文仿宋;" vertex="1" parent="1">
           <mxGeometry x="304.5" y="500" width="156.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XZ0r5PgI1nVHzvm5A0Ag-2" value="属性" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;fontFamily=华文仿宋;" vertex="1" parent="1">
+        <mxCell id="XZ0r5PgI1nVHzvm5A0Ag-2" value="属性（实体标识符）" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;fontFamily=华文仿宋;" vertex="1" parent="1">
           <mxGeometry x="220" y="590" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XZ0r5PgI1nVHzvm5A0Ag-3" value="属性" style="ellipse;whiteSpace=wrap;html=1;fontStyle=0;fontSize=20;fontFamily=华文仿宋;" vertex="1" parent="1">
@@ -73,7 +73,7 @@
             <mxPoint x="590" y="465" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XZ0r5PgI1nVHzvm5A0Ag-18" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="XZ0r5PgI1nVHzvm5A0Ag-13">
+        <mxCell id="XZ0r5PgI1nVHzvm5A0Ag-18" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="XZ0r5PgI1nVHzvm5A0Ag-15" target="XZ0r5PgI1nVHzvm5A0Ag-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="481" y="520" as="sourcePoint" />
             <mxPoint x="600" y="475" as="targetPoint" />
