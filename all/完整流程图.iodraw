@@ -317,8 +317,8 @@
             <mxPoint x="780" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UdRGykpF7VoV-tF3U0A5-86" value="&lt;font size=&quot;1&quot;&gt;&lt;b&gt;&lt;i style=&quot;font-size: 16px&quot;&gt;虚拟身份登录阶段&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="-55" y="845" width="150" height="30" as="geometry" />
+        <mxCell id="UdRGykpF7VoV-tF3U0A5-86" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; lang=&quot;EN-US&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Virtual Identity Login&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="-80" y="840" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UdRGykpF7VoV-tF3U0A5-87" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="120" y="845" width="10" height="30" as="geometry" />
