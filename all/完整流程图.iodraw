@@ -94,8 +94,8 @@
             <mxPoint x="690" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UdRGykpF7VoV-tF3U0A5-13" value="初始化1：创建长期身份 / 虚拟身份智能合约" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="410" y="205" width="250" height="30" as="geometry" />
+        <mxCell id="UdRGykpF7VoV-tF3U0A5-13" value="Initialization 1: Creating Long-Term Identity / Virtual Identity Smart Contracts" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="335" y="205" width="400" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UdRGykpF7VoV-tF3U0A5-14" value="初始化2：响应合约创建请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="450" y="235" width="170" height="30" as="geometry" />
@@ -358,7 +358,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UdRGykpF7VoV-tF3U0A5-100" value="注册3.3：虚拟身份&lt;br&gt;凭证生成" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="289" y="715" width="120" height="40" as="geometry" />
+          <mxGeometry x="280" y="715" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UdRGykpF7VoV-tF3U0A5-101" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1.007;exitY=0.602;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Times New Roman;" parent="1" source="UdRGykpF7VoV-tF3U0A5-66" target="UdRGykpF7VoV-tF3U0A5-68" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
