@@ -448,7 +448,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UdRGykpF7VoV-tF3U0A5-122" value="&lt;div&gt;Update 4: Storing attributes to be added.&lt;/div&gt;&lt;div&gt;Delete the attributes to be deleted&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="430" y="481" width="220" height="40" as="geometry" />
+          <mxGeometry x="435" y="517" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UdRGykpF7VoV-tF3U0A5-123" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.875;exitDx=0;exitDy=0;entryX=1.07;entryY=0.874;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;fontFamily=Times New Roman;" parent="1" source="UdRGykpF7VoV-tF3U0A5-107" target="UdRGykpF7VoV-tF3U0A5-105" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -456,8 +456,8 @@
             <mxPoint x="268.8900000000001" y="478.03999999999996" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UdRGykpF7VoV-tF3U0A5-124" value="更新5：更新属性信息&lt;br&gt;请求响应" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="125" y="526" width="140" height="40" as="geometry" />
+        <mxCell id="UdRGykpF7VoV-tF3U0A5-124" value="Update 5:&amp;nbsp;&lt;div&gt;Responding to requests to update properties&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="80" y="526" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UdRGykpF7VoV-tF3U0A5-125" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.22;exitY=0.82;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Times New Roman;" parent="1" source="UdRGykpF7VoV-tF3U0A5-40" target="UdRGykpF7VoV-tF3U0A5-73" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
