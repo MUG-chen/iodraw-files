@@ -293,8 +293,11 @@
         <mxCell id="UdRGykpF7VoV-tF3U0A5-76" value="注册2.2：服务提供商&lt;br&gt;元宇宙服务信息存储" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="550" y="645" width="130" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="LqL16PrgqJCLyK3Tyfeu-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UdRGykpF7VoV-tF3U0A5-78" target="UdRGykpF7VoV-tF3U0A5-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UdRGykpF7VoV-tF3U0A5-78" value="注册3.1：注册虚拟身份" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="115" y="682" width="150" height="30" as="geometry" />
+          <mxGeometry x="115" y="680" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UdRGykpF7VoV-tF3U0A5-79" value="" style="endArrow=classic;html=1;entryX=-0.004;entryY=0.113;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Times New Roman;" parent="1" target="UdRGykpF7VoV-tF3U0A5-68" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
