@@ -357,8 +357,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UdRGykpF7VoV-tF3U0A5-100" value="注册3.3：虚拟身份&lt;br&gt;凭证生成" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="280" y="736" width="120" height="40" as="geometry" />
+        <mxCell id="UdRGykpF7VoV-tF3U0A5-100" value="Registration 3.3:&amp;nbsp;&lt;div&gt;Generation of trusted identifiers&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="250" y="736" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UdRGykpF7VoV-tF3U0A5-101" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1.007;exitY=0.602;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Times New Roman;" parent="1" source="UdRGykpF7VoV-tF3U0A5-66" target="UdRGykpF7VoV-tF3U0A5-68" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
