@@ -344,8 +344,8 @@
         <mxCell id="UdRGykpF7VoV-tF3U0A5-94" value="登录3：虚拟身份登录请求响应" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="240" y="927" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UdRGykpF7VoV-tF3U0A5-98" value="登录2：虚拟身份&lt;br&gt;凭证验证" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="570" y="902" width="110" height="40" as="geometry" />
+        <mxCell id="UdRGykpF7VoV-tF3U0A5-98" value="Login 2:&amp;nbsp;&lt;div&gt;Trusted Identity Authentication&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="580" y="902" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UdRGykpF7VoV-tF3U0A5-99" value="" style="curved=1;endArrow=classic;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;" parent="1" source="UdRGykpF7VoV-tF3U0A5-66" target="UdRGykpF7VoV-tF3U0A5-66" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
