@@ -139,7 +139,7 @@
             <mxPoint x="270" y="317.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UdRGykpF7VoV-tF3U0A5-28" value="Registration 1.1:&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;sending identity information&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="UdRGykpF7VoV-tF3U0A5-28" value="Registration 1.1:&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Submit identity information&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="115" y="267" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UdRGykpF7VoV-tF3U0A5-29" value="Registration 1.5:&amp;nbsp;&lt;div&gt;Responding to&amp;nbsp;&lt;/div&gt;&lt;div&gt;static identity registration requests&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;" parent="1" vertex="1">
