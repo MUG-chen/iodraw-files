@@ -215,8 +215,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UdRGykpF7VoV-tF3U0A5-55" value="注册1.4：用户长期身份&lt;br&gt;信息存储" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="395" y="355" width="150" height="40" as="geometry" />
+        <mxCell id="UdRGykpF7VoV-tF3U0A5-55" value="Registration 1.4: Storing user static identity information" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="325" y="360" width="290" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UdRGykpF7VoV-tF3U0A5-56" value="" style="endArrow=none;dashed=1;html=1;fontFamily=Times New Roman;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
