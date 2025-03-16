@@ -447,8 +447,8 @@
             <mxPoint x="690" y="258.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UdRGykpF7VoV-tF3U0A5-122" value="更新4：存储需要添加的属性信息，&lt;br&gt;删除需要删除的属性信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="435" y="481" width="210" height="40" as="geometry" />
+        <mxCell id="UdRGykpF7VoV-tF3U0A5-122" value="&lt;div&gt;Update 4: Storing attributes to be added.&lt;/div&gt;&lt;div&gt;Delete the attributes to be deleted&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="430" y="481" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UdRGykpF7VoV-tF3U0A5-123" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.875;exitDx=0;exitDy=0;entryX=1.07;entryY=0.874;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;fontFamily=Times New Roman;" parent="1" source="UdRGykpF7VoV-tF3U0A5-107" target="UdRGykpF7VoV-tF3U0A5-105" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
