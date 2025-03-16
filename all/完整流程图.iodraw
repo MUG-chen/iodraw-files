@@ -403,7 +403,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UdRGykpF7VoV-tF3U0A5-111" value="Update 1:&amp;nbsp;&lt;div&gt;Submit updated properties&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="120" y="411" width="150" height="40" as="geometry" />
+          <mxGeometry x="120" y="408" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UdRGykpF7VoV-tF3U0A5-112" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="400" y="440" width="10" height="30" as="geometry" />
@@ -420,8 +420,8 @@
             <mxPoint x="268.8900000000003" y="457.03999999999996" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UdRGykpF7VoV-tF3U0A5-115" value="更新2：发送需要&lt;br&gt;添加的属性信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="275" y="412" width="110" height="40" as="geometry" />
+        <mxCell id="UdRGykpF7VoV-tF3U0A5-115" value="Update 2:&amp;nbsp;&lt;div&gt;Sending properties&amp;nbsp;&lt;/div&gt;&lt;div&gt;to be added&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="270" y="402" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UdRGykpF7VoV-tF3U0A5-116" value="" style="endArrow=classic;html=1;entryX=0.959;entryY=0.284;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryPerimeter=0;fontFamily=Times New Roman;" parent="1" source="UdRGykpF7VoV-tF3U0A5-112" target="UdRGykpF7VoV-tF3U0A5-107" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
