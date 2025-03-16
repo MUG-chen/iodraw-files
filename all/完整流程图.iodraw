@@ -37,7 +37,7 @@
         <mxCell id="UdRGykpF7VoV-tF3U0A5-1" value="Computing third party" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="220" y="150" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UdRGykpF7VoV-tF3U0A5-2" value="验证第三方" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="UdRGykpF7VoV-tF3U0A5-2" value="Verification third party" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="360" y="150" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UdRGykpF7VoV-tF3U0A5-3" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Times New Roman;" parent="1" source="UdRGykpF7VoV-tF3U0A5-19" edge="1">
