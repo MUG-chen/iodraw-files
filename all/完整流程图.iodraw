@@ -95,10 +95,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UdRGykpF7VoV-tF3U0A5-13" value="Initialization 1: Creating Long-Term Identity / Virtual Identity Smart Contracts" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="335" y="205" width="400" height="30" as="geometry" />
+          <mxGeometry x="275" y="205" width="400" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UdRGykpF7VoV-tF3U0A5-14" value="初始化2：响应合约创建请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="450" y="235" width="170" height="30" as="geometry" />
+        <mxCell id="UdRGykpF7VoV-tF3U0A5-14" value="Initialization 2: Responding to Contract Creation Requests" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="370" y="235" width="300" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UdRGykpF7VoV-tF3U0A5-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="120" y="300" width="10" height="90" as="geometry" />
