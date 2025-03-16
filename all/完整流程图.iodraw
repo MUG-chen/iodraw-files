@@ -95,7 +95,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UdRGykpF7VoV-tF3U0A5-13" value="初始化1：创建长期身份 / 虚拟身份智能合约" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="410" y="205" width="250" height="30" as="geometry" />
+          <mxGeometry x="450" y="100" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UdRGykpF7VoV-tF3U0A5-14" value="初始化2：响应合约创建请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="450" y="235" width="170" height="30" as="geometry" />
