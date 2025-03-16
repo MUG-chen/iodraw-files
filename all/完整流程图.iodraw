@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="90nGkVEnOaGgi7ILQzrq" name="第 1 页">
-    <mxGraphModel dx="2257" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" extFonts="华文仿宋^https://fonts.googleapis.com/css?family=%E5%8D%8E%E6%96%87%E4%BB%BF%E5%AE%8B">
+    <mxGraphModel dx="1403" dy="332" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" extFonts="华文仿宋^https://fonts.googleapis.com/css?family=%E5%8D%8E%E6%96%87%E4%BB%BF%E5%AE%8B">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -243,7 +243,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UdRGykpF7VoV-tF3U0A5-63" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; lang=&quot;EN-US&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Metaverse Service&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; lang=&quot;EN-US&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Registration&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="-65" y="580" width="170" height="60" as="geometry" />
+          <mxGeometry x="-70" y="582" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UdRGykpF7VoV-tF3U0A5-64" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="120" y="702" width="10" height="88" as="geometry" />
