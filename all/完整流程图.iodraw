@@ -341,8 +341,8 @@
             <mxPoint x="550" y="924.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UdRGykpF7VoV-tF3U0A5-94" value="登录3：虚拟身份登录请求响应" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="240" y="927" width="190" height="30" as="geometry" />
+        <mxCell id="UdRGykpF7VoV-tF3U0A5-94" value="Login 3: Responding to Virtual Identity Login Requests" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="190" y="927" width="290" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UdRGykpF7VoV-tF3U0A5-98" value="Login 2:&amp;nbsp;&lt;div&gt;Trusted Identifier Authentication&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="575" y="902" width="180" height="40" as="geometry" />
