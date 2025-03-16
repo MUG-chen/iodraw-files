@@ -306,7 +306,7 @@
           <mxGeometry x="345" y="705" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UdRGykpF7VoV-tF3U0A5-81" value="Registration 3.5:&amp;nbsp;&lt;div&gt;Responding to virtual identity registration requests.&lt;/div&gt;&lt;div&gt;Sending back trusted identifiers&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="60" y="778" width="270" height="60" as="geometry" />
+          <mxGeometry x="60" y="787" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UdRGykpF7VoV-tF3U0A5-82" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; lang=&quot;EN-US&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Virtual Identity&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; lang=&quot;EN-US&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Registration&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="-55" y="733" width="150" height="60" as="geometry" />
@@ -332,8 +332,8 @@
             <mxPoint x="540" y="912" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UdRGykpF7VoV-tF3U0A5-92" value="登录1：提交虚拟身份凭证及对应信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="225" y="890" width="220" height="30" as="geometry" />
+        <mxCell id="UdRGykpF7VoV-tF3U0A5-92" value="Login 1: Submit trusted identifier and corresponding information" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="165" y="890" width="340" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UdRGykpF7VoV-tF3U0A5-93" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;fontFamily=Times New Roman;" parent="1" source="UdRGykpF7VoV-tF3U0A5-89" target="UdRGykpF7VoV-tF3U0A5-87" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
