@@ -1,13 +1,13 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="90nGkVEnOaGgi7ILQzrq" name="第 1 页">
-    <mxGraphModel dx="2555" dy="997" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" extFonts="华文仿宋^https://fonts.googleapis.com/css?family=%E5%8D%8E%E6%96%87%E4%BB%BF%E5%AE%8B">
+    <mxGraphModel dx="1815" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" extFonts="华文仿宋^https://fonts.googleapis.com/css?family=%E5%8D%8E%E6%96%87%E4%BB%BF%E5%AE%8B">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="QypPPDB6rARYkY_hrC3L-1" value="User" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="80" y="150" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QypPPDB6rARYkY_hrC3L-2" value="可信第三方" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="QypPPDB6rARYkY_hrC3L-2" value="Trusted third party" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="290" y="60" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QypPPDB6rARYkY_hrC3L-3" value="服务提供商" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Times New Roman;" parent="1" vertex="1">
