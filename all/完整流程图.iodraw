@@ -294,7 +294,7 @@
           <mxGeometry x="453" y="660" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UdRGykpF7VoV-tF3U0A5-78" value="Registration 3.1:&amp;nbsp;&lt;div&gt;Register a virtual identity&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="115" y="696" width="150" height="40" as="geometry" />
+          <mxGeometry x="117" y="696" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UdRGykpF7VoV-tF3U0A5-79" value="" style="endArrow=classic;html=1;entryX=-0.004;entryY=0.113;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Times New Roman;" parent="1" target="UdRGykpF7VoV-tF3U0A5-68" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -302,8 +302,8 @@
             <mxPoint x="270" y="740.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UdRGykpF7VoV-tF3U0A5-80" value="注册3.2：虚拟身份&lt;br&gt;使用属性验证" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="410" y="696" width="120" height="40" as="geometry" />
+        <mxCell id="UdRGykpF7VoV-tF3U0A5-80" value="Registration 3.2: Validating Attributes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="365" y="701" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UdRGykpF7VoV-tF3U0A5-81" value="注册3.5：响应虚拟身份&lt;br&gt;注册请求，发回凭证" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="120" y="788" width="150" height="40" as="geometry" />
