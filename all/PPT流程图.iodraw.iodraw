@@ -238,8 +238,8 @@
             <mxPoint x="320" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dn85JKehf4HfEv7fCR3s-9" value="加密储存" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#FFFFFF;fontSize=10;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="323" y="320" width="66" height="16" as="geometry" />
+        <mxCell id="dn85JKehf4HfEv7fCR3s-9" value="信息恢复" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#FFFFFF;fontSize=10;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="247" y="316" width="66" height="16" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
