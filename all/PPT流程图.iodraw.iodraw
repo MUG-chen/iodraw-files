@@ -68,7 +68,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="49GDJZvxFIjUL1xigqHe-20" value="注册登记" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#FFFFFF;fontSize=10;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="364" y="380" width="66" height="16" as="geometry" />
+          <mxGeometry x="421" y="390" width="66" height="16" as="geometry" />
         </mxCell>
         <mxCell id="49GDJZvxFIjUL1xigqHe-21" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="150" y="420" width="200" height="210" as="geometry" />
@@ -170,10 +170,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="49GDJZvxFIjUL1xigqHe-50" value="注册&lt;div&gt;更改信息&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#FFFFFF;fontSize=10;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="244" y="390" width="66" height="16" as="geometry" />
+          <mxGeometry x="298" y="396" width="66" height="16" as="geometry" />
         </mxCell>
         <mxCell id="49GDJZvxFIjUL1xigqHe-51" value="响应&lt;div&gt;分发可信标识&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#FFFFFF;fontSize=10;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="169.47" y="390" width="66" height="16" as="geometry" />
+          <mxGeometry x="225" y="380" width="66" height="16" as="geometry" />
         </mxCell>
         <mxCell id="49GDJZvxFIjUL1xigqHe-52" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;strokeColor=#FFFFFF;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="49GDJZvxFIjUL1xigqHe-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
