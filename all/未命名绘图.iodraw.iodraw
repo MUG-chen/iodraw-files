@@ -152,7 +152,10 @@
           <mxGeometry x="355" y="436.55" width="66" height="16" as="geometry" />
         </mxCell>
         <mxCell id="49GDJZvxFIjUL1xigqHe-46" value="登录" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#FFFFFF;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="355" y="509.78000000000003" width="66" height="16" as="geometry" />
+          <mxGeometry x="355" y="505.78000000000003" width="66" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="49GDJZvxFIjUL1xigqHe-47" value="登录" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#FFFFFF;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="355" y="576.5" width="66" height="16" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
