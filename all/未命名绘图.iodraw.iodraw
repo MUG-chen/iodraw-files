@@ -10,10 +10,16 @@
         <mxCell id="49GDJZvxFIjUL1xigqHe-2" value="验证第三方" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="340" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="49GDJZvxFIjUL1xigqHe-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.005;exitY=0.378;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="49GDJZvxFIjUL1xigqHe-1">
+        <mxCell id="49GDJZvxFIjUL1xigqHe-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="49GDJZvxFIjUL1xigqHe-1" target="49GDJZvxFIjUL1xigqHe-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="350" y="400" as="sourcePoint" />
             <mxPoint x="400" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="49GDJZvxFIjUL1xigqHe-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="410" as="sourcePoint" />
+            <mxPoint x="490" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
