@@ -169,7 +169,7 @@
             <mxPoint x="275" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="49GDJZvxFIjUL1xigqHe-50" value="登录" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#FFFFFF;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="49GDJZvxFIjUL1xigqHe-50" value="注册&lt;div&gt;更改信息&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#FFFFFF;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="244" y="390" width="66" height="16" as="geometry" />
         </mxCell>
       </root>
