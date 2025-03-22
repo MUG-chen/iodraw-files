@@ -191,7 +191,7 @@
           <mxGeometry x="90" y="390" width="28" height="28" as="geometry" />
         </mxCell>
         <mxCell id="49GDJZvxFIjUL1xigqHe-55" value="公钥" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#FFFFFF;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="40" y="400" width="60" height="12" as="geometry" />
+          <mxGeometry x="50" y="393" width="40" height="22" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
