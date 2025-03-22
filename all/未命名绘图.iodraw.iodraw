@@ -157,10 +157,16 @@
         <mxCell id="49GDJZvxFIjUL1xigqHe-47" value="登录" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#FFFFFF;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="355" y="576.5" width="66" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="49GDJZvxFIjUL1xigqHe-48" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;fontColor=#ffffff;strokeColor=#ffffff;" edge="1" parent="1">
+        <mxCell id="49GDJZvxFIjUL1xigqHe-48" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#ffffff;strokeColor=#ffffff;" edge="1" parent="1" source="49GDJZvxFIjUL1xigqHe-21" target="49GDJZvxFIjUL1xigqHe-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="450" y="430" as="sourcePoint" />
             <mxPoint x="320" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="49GDJZvxFIjUL1xigqHe-49" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#ffffff;strokeColor=#ffffff;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="430" as="sourcePoint" />
+            <mxPoint x="275" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
