@@ -70,6 +70,9 @@
         <mxCell id="49GDJZvxFIjUL1xigqHe-20" value="注册登记" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#FFFFFF;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="364" y="380" width="66" height="16" as="geometry" />
         </mxCell>
+        <mxCell id="49GDJZvxFIjUL1xigqHe-21" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="450" y="430" width="160" height="150" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
