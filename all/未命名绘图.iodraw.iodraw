@@ -148,8 +148,8 @@
             <mxPoint x="491" y="595.86" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="49GDJZvxFIjUL1xigqHe-45" value="注册登记" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#FFFFFF;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="374" y="390" width="66" height="16" as="geometry" />
+        <mxCell id="49GDJZvxFIjUL1xigqHe-45" value="登录" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#FFFFFF;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="364" y="483.56" width="66" height="16" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
