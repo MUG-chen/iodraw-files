@@ -73,7 +73,7 @@
         <mxCell id="49GDJZvxFIjUL1xigqHe-21" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="150" y="420" width="160" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="49GDJZvxFIjUL1xigqHe-22" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;用户&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25BE%25AE%25E8%25BD%25AF%25E9%259B%2585%25E9%25BB%2591;fontSize=14;fontStyle=1;align=center;verticalAlign=middle;fillColor=#dff4f3;fontColor=#0c056d;strokeColor=none;gradientColor=#878ecd;" vertex="1" parent="1">
+        <mxCell id="49GDJZvxFIjUL1xigqHe-22" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;用户&lt;/font&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;（长期身份）&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25BE%25AE%25E8%25BD%25AF%25E9%259B%2585%25E9%25BB%2591;fontSize=14;fontStyle=1;align=center;verticalAlign=middle;fillColor=#dff4f3;fontColor=#0c056d;strokeColor=none;gradientColor=#878ecd;" vertex="1" parent="1">
           <mxGeometry x="160" y="508" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
