@@ -46,11 +46,11 @@
         <mxCell id="49GDJZvxFIjUL1xigqHe-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;元宇宙1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25BE%25AE%25E8%25BD%25AF%25E9%259B%2585%25E9%25BB%2591;fontSize=14;fontStyle=1;align=center;verticalAlign=middle;fillColor=#dff4f3;fontColor=#0c056d;strokeColor=none;gradientColor=#878ecd;" vertex="1" parent="1">
           <mxGeometry x="460" y="430" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="49GDJZvxFIjUL1xigqHe-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;元宇宙1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25BE%25AE%25E8%25BD%25AF%25E9%259B%2585%25E9%25BB%2591;fontSize=14;fontStyle=1;align=center;verticalAlign=middle;fillColor=#dff4f3;fontColor=#0c056d;strokeColor=none;gradientColor=#878ecd;" vertex="1" parent="1">
-          <mxGeometry x="500" y="486" width="90" height="30" as="geometry" />
+        <mxCell id="49GDJZvxFIjUL1xigqHe-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;元宇宙2&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25BE%25AE%25E8%25BD%25AF%25E9%259B%2585%25E9%25BB%2591;fontSize=14;fontStyle=1;align=center;verticalAlign=middle;fillColor=#dff4f3;fontColor=#0c056d;strokeColor=none;gradientColor=#878ecd;" vertex="1" parent="1">
+          <mxGeometry x="500" y="478" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="49GDJZvxFIjUL1xigqHe-13" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;元宇宙1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25BE%25AE%25E8%25BD%25AF%25E9%259B%2585%25E9%25BB%2591;fontSize=14;fontStyle=1;align=center;verticalAlign=middle;fillColor=#dff4f3;fontColor=#0c056d;strokeColor=none;gradientColor=#878ecd;" vertex="1" parent="1">
-          <mxGeometry x="460" y="530" width="90" height="30" as="geometry" />
+          <mxGeometry x="460" y="528" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
