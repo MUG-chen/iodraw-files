@@ -96,6 +96,15 @@
             <mxPoint x="175" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="BVbaqKYUjZNHcoPRdMuf-25" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FFFFFF;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="BVbaqKYUjZNHcoPRdMuf-22" target="BVbaqKYUjZNHcoPRdMuf-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="175" y="620" as="sourcePoint" />
+            <mxPoint x="175" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BVbaqKYUjZNHcoPRdMuf-26" value="&lt;font color=&quot;#ffffff&quot;&gt;安装&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="600" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
