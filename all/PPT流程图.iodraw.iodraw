@@ -67,10 +67,13 @@
             <mxPoint x="130" y="390" as="sourcePoint" />
             <mxPoint x="410" y="520" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="450" y="400" />
+              <mxPoint x="460" y="400" />
               <mxPoint x="460" y="480" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="BVbaqKYUjZNHcoPRdMuf-17" value="&lt;font color=&quot;#ffffff&quot;&gt;安装&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="460" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
