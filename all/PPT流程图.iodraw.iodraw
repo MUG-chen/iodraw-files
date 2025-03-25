@@ -13,7 +13,7 @@
             <mxPoint x="370" y="275" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BVbaqKYUjZNHcoPRdMuf-3" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="BVbaqKYUjZNHcoPRdMuf-3" value="&lt;font color=&quot;#ffffff&quot;&gt;补数&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="305" y="238" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
