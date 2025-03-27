@@ -28,12 +28,12 @@
             <mxPoint x="210" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="caku1X3OtclTsJzVAgsL-65" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#FFFFFF;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="caku1X3OtclTsJzVAgsL-61">
+        <mxCell id="caku1X3OtclTsJzVAgsL-65" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#FFFFFF;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="caku1X3OtclTsJzVAgsL-61" target="caku1X3OtclTsJzVAgsL-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="310" y="150" as="sourcePoint" />
             <mxPoint x="140" y="140" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="140" y="190" />
+              <mxPoint x="210" y="130" />
               <mxPoint x="90" y="140" />
             </Array>
           </mxGeometry>
