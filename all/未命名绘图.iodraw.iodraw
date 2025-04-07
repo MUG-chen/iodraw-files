@@ -7,8 +7,11 @@
         <mxCell id="xa5RDWK07iwZgq3jd_WG-2" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="320" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xa5RDWK07iwZgq3jd_WG-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="390" width="75" height="30" as="geometry" />
+        <mxCell id="xa5RDWK07iwZgq3jd_WG-3" value="用户输入&lt;div&gt;旧密码&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="387.5" y="370" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xa5RDWK07iwZgq3jd_WG-4" value="用户输入&lt;div&gt;旧密码&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="397.5" y="380" width="75" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
