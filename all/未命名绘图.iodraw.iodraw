@@ -16,7 +16,7 @@
         <mxCell id="xFhOW7d9g1yTgiAI04Rc-6" value="用户输入新密码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="361" y="520" width="106" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xFhOW7d9g1yTgiAI04Rc-7" value="用户输入新密码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xFhOW7d9g1yTgiAI04Rc-7" value="用户确认新密码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="361" y="610" width="106" height="40" as="geometry" />
         </mxCell>
       </root>
