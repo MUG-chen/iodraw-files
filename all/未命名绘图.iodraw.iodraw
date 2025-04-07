@@ -28,8 +28,8 @@
         <mxCell id="xFhOW7d9g1yTgiAI04Rc-10" value="系统生成新盐值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="361" y="860" width="106" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xFhOW7d9g1yTgiAI04Rc-11" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="381" y="250" width="86" height="40" as="geometry" />
+        <mxCell id="xFhOW7d9g1yTgiAI04Rc-11" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="371" y="950" width="86" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
