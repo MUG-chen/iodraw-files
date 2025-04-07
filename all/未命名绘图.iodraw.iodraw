@@ -11,13 +11,13 @@
           <mxGeometry x="361" y="330" width="106" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xFhOW7d9g1yTgiAI04Rc-4" value="用户线下联系管理员进行密码重置申请" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="348.5" y="420" width="131" height="50" as="geometry" />
+          <mxGeometry x="348" y="490" width="131" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xFhOW7d9g1yTgiAI04Rc-6" value="用户输入新密码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="361" y="520" width="106" height="40" as="geometry" />
+          <mxGeometry x="360.5" y="590" width="106" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xFhOW7d9g1yTgiAI04Rc-7" value="用户确认新密码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="361" y="610" width="106" height="40" as="geometry" />
+          <mxGeometry x="360.5" y="680" width="106" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
