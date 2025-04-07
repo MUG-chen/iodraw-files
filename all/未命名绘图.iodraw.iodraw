@@ -53,6 +53,12 @@
         <mxCell id="xa5RDWK07iwZgq3jd_WG-14" value="用户确认&lt;div&gt;新密码&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="387.5" y="670" width="75" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="xa5RDWK07iwZgq3jd_WG-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xa5RDWK07iwZgq3jd_WG-9" target="xa5RDWK07iwZgq3jd_WG-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="435" y="540" as="sourcePoint" />
+            <mxPoint x="435" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
