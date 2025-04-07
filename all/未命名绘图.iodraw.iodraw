@@ -50,8 +50,8 @@
         <mxCell id="xa5RDWK07iwZgq3jd_WG-13" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="530" y="450" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xa5RDWK07iwZgq3jd_WG-14" value="用户输入&lt;div&gt;新密码&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="397.5" y="590" width="75" height="30" as="geometry" />
+        <mxCell id="xa5RDWK07iwZgq3jd_WG-14" value="用户确认&lt;div&gt;新密码&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="387.5" y="670" width="75" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
