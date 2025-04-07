@@ -99,8 +99,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xFhOW7d9g1yTgiAI04Rc-22" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="405" y="458" width="50" height="30" as="geometry" />
+        <mxCell id="xFhOW7d9g1yTgiAI04Rc-22" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="458" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xFhOW7d9g1yTgiAI04Rc-23" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="820" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
