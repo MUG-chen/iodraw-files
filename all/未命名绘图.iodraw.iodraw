@@ -19,6 +19,9 @@
         <mxCell id="xFhOW7d9g1yTgiAI04Rc-7" value="用户确认新密码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360.5" y="680" width="106" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="xFhOW7d9g1yTgiAI04Rc-8" value="用户名&lt;div&gt;是否存在&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="374" y="400" width="80" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
