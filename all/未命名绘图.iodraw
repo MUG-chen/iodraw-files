@@ -20,7 +20,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UUnSTKfN-fnaLt1HTbbH-4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;生成并定期更新&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="399" y="378" width="140" height="30" as="geometry" />
+          <mxGeometry x="420" y="378" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UUnSTKfN-fnaLt1HTbbH-6" value="密钥" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="407" y="466" width="50" height="30" as="geometry" />
@@ -66,6 +66,9 @@
             <mxPoint x="426" y="500" as="sourcePoint" />
             <mxPoint x="412" y="630" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="zbCpm5mCH2_AL81faoQt-11" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;分发&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="447" y="555" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
