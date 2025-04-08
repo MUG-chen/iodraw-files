@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="6LcJWj3QorKdqKYNmi8a-1" value="&lt;font face=&quot;微软雅黑&quot; style=&quot;font-size: 20px;&quot;&gt;用户 n&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;gradientColor=#D8E0FF;" vertex="1" parent="1">
-          <mxGeometry x="270" y="370" width="110" height="120" as="geometry" />
+        <mxCell id="6LcJWj3QorKdqKYNmi8a-1" value="&lt;font face=&quot;微软雅黑&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Python&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;微软雅黑&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;脚本程序&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;gradientColor=#D8E0FF;" vertex="1" parent="1">
+          <mxGeometry x="270" y="350" width="140" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
