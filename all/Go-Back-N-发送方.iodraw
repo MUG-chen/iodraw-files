@@ -94,13 +94,13 @@
         <mxCell id="UP9C5qJZGadw6ELTK7au-20" value="&lt;div style=&quot;text-align: left;&quot;&gt;base = 收到ACK的序号+1;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;if(base == nextseqnum){&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;之前的所有帧都被确认, 结束计时器;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;}else{&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;还有没被确认的帧, 重新启动计时器;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;}&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="180" y="430" width="240" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="UP9C5qJZGadw6ELTK7au-21" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.739;exitY=0.964;exitDx=0;exitDy=0;entryX=0.324;entryY=1.002;entryDx=0;entryDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="UP9C5qJZGadw6ELTK7au-21" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="avpd055EVpR7Cbu9eMaL-1" target="avpd055EVpR7Cbu9eMaL-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="247" y="348" as="sourcePoint" />
-            <mxPoint x="209" y="350" as="targetPoint" />
+            <mxPoint x="137" y="350" as="sourcePoint" />
+            <mxPoint x="99" y="352" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="260" y="410" />
-              <mxPoint x="190" y="410" />
+              <mxPoint x="160" y="380" />
+              <mxPoint x="80" y="412" />
             </Array>
           </mxGeometry>
         </mxCell>
