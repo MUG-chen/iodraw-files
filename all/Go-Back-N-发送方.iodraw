@@ -32,17 +32,14 @@
             <mxPoint x="284" y="196" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UP9C5qJZGadw6ELTK7au-5" value="设置帧编号范围为0 ~ n&lt;div&gt;发送方窗口大小为m&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="310" y="170" width="150" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="UP9C5qJZGadw6ELTK7au-6" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="avpd055EVpR7Cbu9eMaL-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="80" y="230" as="sourcePoint" />
             <mxPoint x="130" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UP9C5qJZGadw6ELTK7au-8" value="初始化：&lt;div&gt;base = 1&lt;/div&gt;&lt;div&gt;nextseqnum = 1&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="20" y="262" width="110" height="60" as="geometry" />
+        <mxCell id="UP9C5qJZGadw6ELTK7au-8" value="初始化：&lt;div&gt;最老的未被确认的帧序号base = 1&lt;/div&gt;&lt;div&gt;下一个要传输的帧序号nextseqnum = 1&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="262" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UP9C5qJZGadw6ELTK7au-9" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
