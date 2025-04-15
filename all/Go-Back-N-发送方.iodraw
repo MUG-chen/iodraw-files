@@ -20,8 +20,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UP9C5qJZGadw6ELTK7au-2" value="发送数据包i" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="168" y="191" width="90" height="30" as="geometry" />
+        <mxCell id="UP9C5qJZGadw6ELTK7au-2" value="发送数据包nextseqnum" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="138" y="191" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UP9C5qJZGadw6ELTK7au-3" value="发送ACK1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="173" y="212" width="80" height="30" as="geometry" />
