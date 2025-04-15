@@ -60,10 +60,10 @@
         <mxCell id="YB9yRRfpGUWj2lfLazi3-17" value="超时" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="475" y="250" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YB9yRRfpGUWj2lfLazi3-18" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="YB9yRRfpGUWj2lfLazi3-18" value="" style="endArrow=none;html=1;rounded=0;entryX=0.983;entryY=0.872;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="YB9yRRfpGUWj2lfLazi3-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="260" as="sourcePoint" />
-            <mxPoint x="530" y="210" as="targetPoint" />
+            <mxPoint x="414" y="204.9" as="sourcePoint" />
+            <mxPoint x="484" y="204.9" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
