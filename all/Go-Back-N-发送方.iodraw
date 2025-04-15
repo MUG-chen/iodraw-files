@@ -54,8 +54,8 @@
             <mxPoint x="283" y="217" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UP9C5qJZGadw6ELTK7au-5" value="设置编号范围为0 ~ 3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="345" y="168" width="130" height="30" as="geometry" />
+        <mxCell id="UP9C5qJZGadw6ELTK7au-5" value="设置编号范围为0 ~ n&lt;div&gt;发送方窗口大小为m&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="170" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
