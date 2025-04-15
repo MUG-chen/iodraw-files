@@ -13,8 +13,11 @@
         <mxCell id="YB9yRRfpGUWj2lfLazi3-4" value="等待ACK0" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="240" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="YB9yRRfpGUWj2lfLazi3-5" value="等待ACK0" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YB9yRRfpGUWj2lfLazi3-5" value="发送数据包1" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="400" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YB9yRRfpGUWj2lfLazi3-6" value="等待ACK0" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="250" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
