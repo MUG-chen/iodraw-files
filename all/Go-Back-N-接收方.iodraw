@@ -69,8 +69,8 @@
             <mxPoint x="592.24" y="291.15999999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UP9C5qJZGadw6ELTK7au-16" value="&lt;div style=&quot;text-align: left;&quot;&gt;重新启动计时器&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;重发当前滑动窗口内全部的数据包(base, base+1, ...&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;, nextseqnum -1);&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="300" y="290" width="300" height="60" as="geometry" />
+        <mxCell id="UP9C5qJZGadw6ELTK7au-16" value="&lt;div style=&quot;text-align: left;&quot;&gt;发送ACK_expectedseqnum;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;expectedseqnum++;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="365" y="300" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
