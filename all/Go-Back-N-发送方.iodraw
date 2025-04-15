@@ -10,28 +10,6 @@
         <mxCell id="avpd055EVpR7Cbu9eMaL-1" value="等待" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="290" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="avpd055EVpR7Cbu9eMaL-16" value="收到数据包1&lt;div&gt;|| 收到数据包但出错&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-19" y="278" width="130" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="avpd055EVpR7Cbu9eMaL-17" value="发送ACK1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="6" y="310" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="avpd055EVpR7Cbu9eMaL-18" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-20" y="314.9" as="sourcePoint" />
-            <mxPoint x="116" y="315" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="avpd055EVpR7Cbu9eMaL-19" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="avpd055EVpR7Cbu9eMaL-1" target="avpd055EVpR7Cbu9eMaL-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="107" y="354" as="sourcePoint" />
-            <mxPoint x="107" y="390" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="120" y="350" />
-              <mxPoint x="120" y="290" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="UP9C5qJZGadw6ELTK7au-1" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.323;exitY=0.049;exitDx=0;exitDy=0;entryX=0.685;entryY=0.058;entryDx=0;entryDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="avpd055EVpR7Cbu9eMaL-1" target="avpd055EVpR7Cbu9eMaL-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="260" y="243" as="sourcePoint" />
@@ -56,6 +34,12 @@
         </mxCell>
         <mxCell id="UP9C5qJZGadw6ELTK7au-5" value="设置帧编号范围为0 ~ n&lt;div&gt;发送方窗口大小为m&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="310" y="170" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UP9C5qJZGadw6ELTK7au-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="330" as="sourcePoint" />
+            <mxPoint x="130" y="280" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
