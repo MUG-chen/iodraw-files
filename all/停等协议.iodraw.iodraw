@@ -192,6 +192,9 @@
         <mxCell id="YB9yRRfpGUWj2lfLazi3-42" value="重传数据包0&lt;div&gt;重置计时器&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-30" y="431" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="YB9yRRfpGUWj2lfLazi3-43" value="重传数据包0&lt;div&gt;重置计时器&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="271" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
