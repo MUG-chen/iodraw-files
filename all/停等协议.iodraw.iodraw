@@ -153,9 +153,21 @@
             <mxPoint x="70" y="503" as="sourcePoint" />
             <mxPoint x="102" y="510" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="115" y="453" />
-              <mxPoint x="145" y="503" />
+              <mxPoint x="110" y="480" />
+              <mxPoint x="80" y="480" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YB9yRRfpGUWj2lfLazi3-36" value="收到数据包但数据包出错&lt;div&gt;||&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;收到ACK1&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="177" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YB9yRRfpGUWj2lfLazi3-37" value="啥也不干，等超时" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="210" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YB9yRRfpGUWj2lfLazi3-38" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="424" y="214.9" as="sourcePoint" />
+            <mxPoint x="560" y="215" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
