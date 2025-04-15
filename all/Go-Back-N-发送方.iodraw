@@ -41,16 +41,13 @@
             <mxPoint x="130" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UP9C5qJZGadw6ELTK7au-7" value="发送数据包i" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="178" y="201" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="UP9C5qJZGadw6ELTK7au-8" value="发送ACK1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="183" y="222" width="80" height="30" as="geometry" />
+        <mxCell id="UP9C5qJZGadw6ELTK7au-8" value="初始化：&lt;div&gt;base = 1&lt;/div&gt;&lt;div&gt;nextseqnum = 1&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="11" y="248" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UP9C5qJZGadw6ELTK7au-9" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="157" y="226.89999999999998" as="sourcePoint" />
-            <mxPoint x="293" y="227" as="targetPoint" />
+            <mxPoint y="267.9" as="sourcePoint" />
+            <mxPoint x="136" y="268" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
