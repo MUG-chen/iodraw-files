@@ -196,16 +196,16 @@
           <mxGeometry x="440" y="342" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YB9yRRfpGUWj2lfLazi3-44" value="收到确认包，确认没出错&lt;div&gt;&amp;amp;&amp;amp; 收到ACK1&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="320" width="160" height="40" as="geometry" />
+          <mxGeometry x="-60" y="310" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YB9yRRfpGUWj2lfLazi3-45" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-36" y="354.9" as="sourcePoint" />
-            <mxPoint x="100" y="355" as="targetPoint" />
+            <mxPoint x="-46" y="344.9" as="sourcePoint" />
+            <mxPoint x="90" y="345" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YB9yRRfpGUWj2lfLazi3-46" value="停止计时器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="352" width="80" height="30" as="geometry" />
+          <mxGeometry x="-20" y="342" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
