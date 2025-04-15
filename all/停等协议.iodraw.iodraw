@@ -131,12 +131,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YB9yRRfpGUWj2lfLazi3-32" value="开启计时器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="140" y="220" width="80" height="30" as="geometry" />
+          <mxGeometry x="258" y="453" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YB9yRRfpGUWj2lfLazi3-33" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="112" y="224.71" as="sourcePoint" />
-            <mxPoint x="248" y="224.81" as="targetPoint" />
+            <mxPoint x="230" y="457.71000000000004" as="sourcePoint" />
+            <mxPoint x="366" y="457.81" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YB9yRRfpGUWj2lfLazi3-34" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="183" y="290" as="sourcePoint" />
+            <mxPoint x="183" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="258" y="340" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
