@@ -41,8 +41,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YB9yRRfpGUWj2lfLazi3-10" value="收到数据包但数据包出错&lt;div&gt;收到ACK1&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="400" y="170" width="160" height="40" as="geometry" />
+        <mxCell id="YB9yRRfpGUWj2lfLazi3-10" value="收到数据包但数据包出错&lt;div&gt;/&lt;br&gt;&lt;div&gt;收到ACK1&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="150" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YB9yRRfpGUWj2lfLazi3-14" value="不干啥，等超时" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="425" y="200" width="110" height="30" as="geometry" />
@@ -85,15 +85,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YB9yRRfpGUWj2lfLazi3-22" value="收到数据包但数据包出错&lt;div&gt;收到ACK1&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="410" y="180" width="160" height="40" as="geometry" />
+          <mxGeometry x="400" y="310" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YB9yRRfpGUWj2lfLazi3-23" value="不干啥，等超时" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="435" y="210" width="110" height="30" as="geometry" />
+          <mxGeometry x="425" y="340" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YB9yRRfpGUWj2lfLazi3-24" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="424" y="214.9" as="sourcePoint" />
-            <mxPoint x="560" y="215" as="targetPoint" />
+            <mxPoint x="414" y="344.9" as="sourcePoint" />
+            <mxPoint x="550" y="345" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
