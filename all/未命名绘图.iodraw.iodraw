@@ -16,8 +16,18 @@
         <mxCell id="YB9yRRfpGUWj2lfLazi3-5" value="发送数据包1" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="400" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="YB9yRRfpGUWj2lfLazi3-6" value="等待ACK0" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="250" width="90" height="50" as="geometry" />
+        <mxCell id="YB9yRRfpGUWj2lfLazi3-6" value="等待ACK1" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="400" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YB9yRRfpGUWj2lfLazi3-7" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="350" as="sourcePoint" />
+            <mxPoint x="280" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="350" />
+              <mxPoint x="230" y="300" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
