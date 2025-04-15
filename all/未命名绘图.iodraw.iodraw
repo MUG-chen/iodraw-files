@@ -36,10 +36,13 @@
             <mxPoint x="520" y="210" as="sourcePoint" />
             <mxPoint x="570" y="160" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="420" y="160" />
-              <mxPoint x="520" y="160" />
+              <mxPoint x="410" y="190" />
+              <mxPoint x="440" y="240" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="YB9yRRfpGUWj2lfLazi3-10" value="开启计时器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="180" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
