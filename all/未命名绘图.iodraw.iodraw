@@ -47,6 +47,12 @@
         <mxCell id="YB9yRRfpGUWj2lfLazi3-14" value="收到数据包但数据包出错&lt;div&gt;收到ACK1&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="430" y="260" width="160" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="YB9yRRfpGUWj2lfLazi3-15" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.986;entryY=0.993;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="YB9yRRfpGUWj2lfLazi3-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="280" as="sourcePoint" />
+            <mxPoint x="520" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
