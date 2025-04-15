@@ -28,8 +28,18 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YB9yRRfpGUWj2lfLazi3-8" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="125" y="198" width="50" height="30" as="geometry" />
+        <mxCell id="YB9yRRfpGUWj2lfLazi3-8" value="开启计时器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="210" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YB9yRRfpGUWj2lfLazi3-9" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="210" as="sourcePoint" />
+            <mxPoint x="570" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="570" y="210" />
+              <mxPoint x="520" y="160" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
