@@ -47,8 +47,8 @@
         <mxCell id="UP9C5qJZGadw6ELTK7au-11" value="发送窗口大小为N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="420" y="160" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UP9C5qJZGadw6ELTK7au-12" value="if(nextseqnum &amp;lt; base + N){&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;发送序号为nextseqnum的数据包&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;}&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="116" y="130" width="220" height="60" as="geometry" />
+        <mxCell id="UP9C5qJZGadw6ELTK7au-12" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;if(nextseqnum &amp;lt; base + N){&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;发送序号为nextseqnum的数据包;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;如果这是第一个未被确认的帧, 启动计时器;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;nextseqnum++;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;}else{&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;发送窗口满, 等待;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;}&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="86" y="105" width="280" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
