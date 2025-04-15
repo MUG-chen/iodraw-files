@@ -77,10 +77,10 @@
             <mxPoint x="240" y="387" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="avpd055EVpR7Cbu9eMaL-16" value="收到数据包0&lt;div&gt;|| 收到数据包但出错&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="avpd055EVpR7Cbu9eMaL-16" value="收到数据包1&lt;div&gt;|| 收到数据包但出错&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-189" y="278" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="avpd055EVpR7Cbu9eMaL-17" value="发送ACK0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="avpd055EVpR7Cbu9eMaL-17" value="发送ACK1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-164" y="310" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="avpd055EVpR7Cbu9eMaL-18" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
