@@ -20,8 +20,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UP9C5qJZGadw6ELTK7au-2" value="收到未期待的数据包" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="185" y="110" width="130" height="30" as="geometry" />
+        <mxCell id="UP9C5qJZGadw6ELTK7au-2" value="收到未期待的数据包 || 数据包损坏" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="150" y="110" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UP9C5qJZGadw6ELTK7au-4" value="" style="endArrow=none;html=1;rounded=0;entryX=1.008;entryY=-0.044;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -47,8 +47,8 @@
         <mxCell id="UP9C5qJZGadw6ELTK7au-11" value="发送窗口大小为N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#0000FF;" parent="1" vertex="1">
           <mxGeometry x="414" y="190" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UP9C5qJZGadw6ELTK7au-12" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="240" y="180" width="20" height="30" as="geometry" />
+        <mxCell id="UP9C5qJZGadw6ELTK7au-12" value="&lt;div style=&quot;text-align: left;&quot;&gt;发送ACK_expectedseqnum&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="165" y="180" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UP9C5qJZGadw6ELTK7au-13" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" source="avpd055EVpR7Cbu9eMaL-1" target="avpd055EVpR7Cbu9eMaL-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
