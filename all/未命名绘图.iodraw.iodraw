@@ -42,7 +42,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YB9yRRfpGUWj2lfLazi3-10" value="收到数据包但数据包出错" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="400" y="180" width="160" height="30" as="geometry" />
+          <mxGeometry x="414" y="190" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
