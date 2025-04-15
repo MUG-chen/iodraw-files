@@ -180,6 +180,18 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="YB9yRRfpGUWj2lfLazi3-40" value="超时" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="410" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YB9yRRfpGUWj2lfLazi3-41" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-30" y="434.71000000000004" as="sourcePoint" />
+            <mxPoint x="70" y="435" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YB9yRRfpGUWj2lfLazi3-42" value="重传数据包0&lt;div&gt;重置计时器&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="431" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
