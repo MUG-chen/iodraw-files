@@ -45,7 +45,17 @@
           <mxGeometry x="420" y="185" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YB9yRRfpGUWj2lfLazi3-14" value="不干啥，等超时" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="450" y="225" width="110" height="30" as="geometry" />
+          <mxGeometry x="580" y="190" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YB9yRRfpGUWj2lfLazi3-16" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="290" as="sourcePoint" />
+            <mxPoint x="452" y="297" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="465" y="240" />
+              <mxPoint x="495" y="290" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
