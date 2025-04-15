@@ -47,8 +47,8 @@
         <mxCell id="UP9C5qJZGadw6ELTK7au-11" value="发送窗口大小为N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="420" y="160" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UP9C5qJZGadw6ELTK7au-12" value="初始化：&lt;div&gt;最老的未被确认的帧序号base = 1&lt;/div&gt;&lt;div&gt;下一个要传输的帧序号nextseqnum = 1&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="111" y="130" width="230" height="60" as="geometry" />
+        <mxCell id="UP9C5qJZGadw6ELTK7au-12" value="if(nextseqnum &amp;lt; base + N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="146" y="145" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
