@@ -46,6 +46,9 @@
         <mxCell id="gCjjUOaTZ7FYgq23CvAP-18" value="服务器更新&lt;div&gt;选课表数据&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="gCjjUOaTZ7FYgq23CvAP-2">
           <mxGeometry x="30" y="235" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="gCjjUOaTZ7FYgq23CvAP-19" value="服务器返回选课成功信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="gCjjUOaTZ7FYgq23CvAP-2">
+          <mxGeometry x="30" y="300" width="100" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="gCjjUOaTZ7FYgq23CvAP-3" value="教师系统客户端" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="494" y="180" width="160" height="480" as="geometry" />
         </mxCell>
@@ -66,9 +69,6 @@
             <mxPoint x="380" y="530" as="sourcePoint" />
             <mxPoint x="430" y="480" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="gCjjUOaTZ7FYgq23CvAP-19" value="服务器更新&lt;div&gt;选课表数据&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="374" y="425" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
