@@ -10,6 +10,9 @@
             <mxPoint x="760" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="-i2w6SdjBUOpGpYOaox8-3" value="登录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="210" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
