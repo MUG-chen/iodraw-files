@@ -31,6 +31,9 @@
         <mxCell id="gCjjUOaTZ7FYgq23CvAP-13" value="提出选课申请" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="gCjjUOaTZ7FYgq23CvAP-1">
           <mxGeometry x="30" y="250" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="gCjjUOaTZ7FYgq23CvAP-14" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="gCjjUOaTZ7FYgq23CvAP-1">
+          <mxGeometry x="30" y="180" width="80" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="gCjjUOaTZ7FYgq23CvAP-2" value="系统数据库服务器" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="334" y="180" width="160" height="400" as="geometry" />
         </mxCell>
