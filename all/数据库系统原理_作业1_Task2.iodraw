@@ -217,8 +217,8 @@
             <mxPoint x="483" y="453" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="z7yWH05SkthZTSj5GX62-3" value="&lt;font face=&quot;华文仿宋&quot; style=&quot;font-size: 20px;&quot;&gt;授课教师&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="335" y="360" width="90" height="50" as="geometry" />
+        <mxCell id="z7yWH05SkthZTSj5GX62-3" value="&lt;font face=&quot;华文仿宋&quot; style=&quot;font-size: 20px;&quot;&gt;课程名&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="400" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
