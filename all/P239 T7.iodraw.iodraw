@@ -235,8 +235,11 @@
             <mxPoint x="117" y="657" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cufbGgQUTXhRJCzmneii-49" value="课程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="577.5" width="70" height="40" as="geometry" />
+        <mxCell id="cufbGgQUTXhRJCzmneii-49" value="教员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="577.5" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cufbGgQUTXhRJCzmneii-50" value="包含" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="390" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
