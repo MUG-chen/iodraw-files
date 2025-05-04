@@ -61,7 +61,7 @@
         <mxCell id="gCjjUOaTZ7FYgq23CvAP-3" value="教师系统客户端" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="494" y="180" width="160" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="gCjjUOaTZ7FYgq23CvAP-23" value="更新个人选课界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="gCjjUOaTZ7FYgq23CvAP-3">
+        <mxCell id="gCjjUOaTZ7FYgq23CvAP-23" value="更新个人教授课程信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="gCjjUOaTZ7FYgq23CvAP-3">
           <mxGeometry x="30" y="310" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gCjjUOaTZ7FYgq23CvAP-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="gCjjUOaTZ7FYgq23CvAP-5" target="gCjjUOaTZ7FYgq23CvAP-7">
