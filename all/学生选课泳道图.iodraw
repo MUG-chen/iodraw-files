@@ -7,8 +7,11 @@
         <mxCell id="gCjjUOaTZ7FYgq23CvAP-1" value="学生系统客户端" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="110" width="160" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="gCjjUOaTZ7FYgq23CvAP-2" value="学生" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
+        <mxCell id="gCjjUOaTZ7FYgq23CvAP-2" value="系统数据库" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="280" y="110" width="160" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="gCjjUOaTZ7FYgq23CvAP-3" value="系统数据库" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="440" y="110" width="160" height="400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
