@@ -28,8 +28,8 @@
             <mxPoint x="300" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="R3jmyvo8axFVcDzfxefU-7" value="管理&lt;div&gt;硬件支持&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="424" y="370" width="70" height="40" as="geometry" />
+        <mxCell id="R3jmyvo8axFVcDzfxefU-7" value="信息源提供" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="265" y="395" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
