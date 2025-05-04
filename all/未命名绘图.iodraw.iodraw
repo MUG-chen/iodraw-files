@@ -61,6 +61,20 @@
             <mxPoint x="310" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="2j6QZRcjRuzLUhG8x7YM-15" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="285" y="418" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2j6QZRcjRuzLUhG8x7YM-16" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="2j6QZRcjRuzLUhG8x7YM-12" target="2j6QZRcjRuzLUhG8x7YM-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="570" as="sourcePoint" />
+            <mxPoint x="230" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2j6QZRcjRuzLUhG8x7YM-17" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2j6QZRcjRuzLUhG8x7YM-16">
+          <mxGeometry x="0.0239" y="-9" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
