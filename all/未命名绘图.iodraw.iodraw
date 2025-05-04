@@ -163,8 +163,8 @@
             <mxPoint x="550" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2j6QZRcjRuzLUhG8x7YM-40" value="使用" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="225" y="590" width="80" height="50" as="geometry" />
+        <mxCell id="2j6QZRcjRuzLUhG8x7YM-40" value="按类别存储" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="578" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
