@@ -166,6 +166,15 @@
         <mxCell id="2j6QZRcjRuzLUhG8x7YM-40" value="按类别存储" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="578" width="80" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="2j6QZRcjRuzLUhG8x7YM-41" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="2j6QZRcjRuzLUhG8x7YM-40" target="2j6QZRcjRuzLUhG8x7YM-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="690" as="sourcePoint" />
+            <mxPoint x="530" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2j6QZRcjRuzLUhG8x7YM-42" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="475" y="568" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
