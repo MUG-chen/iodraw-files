@@ -211,6 +211,15 @@
         <mxCell id="z7yWH05SkthZTSj5GX62-1" value="&lt;font face=&quot;华文仿宋&quot; style=&quot;font-size: 20px;&quot;&gt;授课教师&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="325" y="350" width="90" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="z7yWH05SkthZTSj5GX62-2" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="P-UjhzoSiUyuepz6IUfM-3" target="z7yWH05SkthZTSj5GX62-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="490" as="sourcePoint" />
+            <mxPoint x="483" y="453" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z7yWH05SkthZTSj5GX62-3" value="&lt;font face=&quot;华文仿宋&quot; style=&quot;font-size: 20px;&quot;&gt;授课教师&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="360" width="90" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
