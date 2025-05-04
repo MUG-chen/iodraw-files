@@ -29,7 +29,13 @@
           <mxGeometry x="467.5" y="278" width="155" height="82" as="geometry" />
         </mxCell>
         <mxCell id="-i2w6SdjBUOpGpYOaox8-9" value="与系统内信息&lt;div&gt;是否匹配&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="75" y="370" width="140" height="80" as="geometry" />
+          <mxGeometry x="75" y="370" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-i2w6SdjBUOpGpYOaox8-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-i2w6SdjBUOpGpYOaox8-4" target="-i2w6SdjBUOpGpYOaox8-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="470" as="sourcePoint" />
+            <mxPoint x="290" y="420" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
