@@ -184,8 +184,8 @@
             <mxPoint x="490" y="645" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cufbGgQUTXhRJCzmneii-37" value="包含" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="390" width="80" height="40" as="geometry" />
+        <mxCell id="cufbGgQUTXhRJCzmneii-37" value="选修" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="577.5" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
