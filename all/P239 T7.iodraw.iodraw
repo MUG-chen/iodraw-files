@@ -217,8 +217,8 @@
             <mxPoint x="490" y="725" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cufbGgQUTXhRJCzmneii-45" value="&lt;u&gt;学号&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="537.5" width="90" height="50" as="geometry" />
+        <mxCell id="cufbGgQUTXhRJCzmneii-45" value="&lt;u&gt;课程编号&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="640" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
