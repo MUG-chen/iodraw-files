@@ -121,6 +121,15 @@
         <mxCell id="2j6QZRcjRuzLUhG8x7YM-30" value="原材料名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="730" width="80" height="43" as="geometry" />
         </mxCell>
+        <mxCell id="2j6QZRcjRuzLUhG8x7YM-31" value="类别" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="730" width="80" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="2j6QZRcjRuzLUhG8x7YM-32" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="760" as="sourcePoint" />
+            <mxPoint x="240" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
