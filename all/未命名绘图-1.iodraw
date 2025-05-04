@@ -40,6 +40,9 @@
             <mxPoint x="380" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="R3jmyvo8axFVcDzfxefU-10" value="开课&lt;div&gt;信息源提供&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="453" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
