@@ -37,20 +37,20 @@
             <mxPoint x="256" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gCjjUOaTZ7FYgq23CvAP-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="gCjjUOaTZ7FYgq23CvAP-1" source="gCjjUOaTZ7FYgq23CvAP-14">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="90" y="200" as="sourcePoint" />
-            <mxPoint x="80" y="310" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="80" y="300" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="gCjjUOaTZ7FYgq23CvAP-2" value="系统数据库服务器" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="334" y="180" width="160" height="480" as="geometry" />
         </mxCell>
         <mxCell id="gCjjUOaTZ7FYgq23CvAP-7" value="服务器调用数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="gCjjUOaTZ7FYgq23CvAP-2">
           <mxGeometry x="30" y="100" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gCjjUOaTZ7FYgq23CvAP-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="gCjjUOaTZ7FYgq23CvAP-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="46" y="350" as="sourcePoint" />
+            <mxPoint x="96" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gCjjUOaTZ7FYgq23CvAP-18" value="服务器调用数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="gCjjUOaTZ7FYgq23CvAP-2">
+          <mxGeometry x="30" y="230" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gCjjUOaTZ7FYgq23CvAP-3" value="教师系统客户端" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="494" y="180" width="160" height="480" as="geometry" />
