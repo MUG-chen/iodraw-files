@@ -22,8 +22,8 @@
         <mxCell id="-i2w6SdjBUOpGpYOaox8-6" value="接收选课请求&lt;div&gt;（student_id, course_id）&lt;div&gt;验证是否合规&lt;/div&gt;&lt;div&gt;更新数据库&lt;/div&gt;&lt;div&gt;返回结果&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="267.5" y="278" width="155" height="82" as="geometry" />
         </mxCell>
-        <mxCell id="-i2w6SdjBUOpGpYOaox8-7" value="选课" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="220" width="90" height="40" as="geometry" />
+        <mxCell id="-i2w6SdjBUOpGpYOaox8-7" value="查看系统内表项" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="210" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
