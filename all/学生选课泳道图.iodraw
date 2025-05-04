@@ -52,6 +52,12 @@
         <mxCell id="gCjjUOaTZ7FYgq23CvAP-19" value="服务器返回选课成功信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="gCjjUOaTZ7FYgq23CvAP-2">
           <mxGeometry x="30" y="310" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="gCjjUOaTZ7FYgq23CvAP-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="gCjjUOaTZ7FYgq23CvAP-2" source="gCjjUOaTZ7FYgq23CvAP-18" target="gCjjUOaTZ7FYgq23CvAP-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="146" y="310" as="sourcePoint" />
+            <mxPoint x="196" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="gCjjUOaTZ7FYgq23CvAP-3" value="教师系统客户端" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="494" y="180" width="160" height="480" as="geometry" />
         </mxCell>
@@ -71,6 +77,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="530" as="sourcePoint" />
             <mxPoint x="430" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gCjjUOaTZ7FYgq23CvAP-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gCjjUOaTZ7FYgq23CvAP-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="424" y="455" as="sourcePoint" />
+            <mxPoint x="424" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
