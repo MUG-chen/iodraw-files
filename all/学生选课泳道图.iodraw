@@ -43,14 +43,8 @@
         <mxCell id="gCjjUOaTZ7FYgq23CvAP-7" value="服务器调用数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="gCjjUOaTZ7FYgq23CvAP-2">
           <mxGeometry x="30" y="100" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gCjjUOaTZ7FYgq23CvAP-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="gCjjUOaTZ7FYgq23CvAP-2" source="gCjjUOaTZ7FYgq23CvAP-14">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="46" y="350" as="sourcePoint" />
-            <mxPoint x="96" y="300" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gCjjUOaTZ7FYgq23CvAP-18" value="服务器调用数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="gCjjUOaTZ7FYgq23CvAP-2">
-          <mxGeometry x="30" y="234" width="100" height="30" as="geometry" />
+        <mxCell id="gCjjUOaTZ7FYgq23CvAP-18" value="服务器更新&lt;div&gt;选课表数据&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="gCjjUOaTZ7FYgq23CvAP-2">
+          <mxGeometry x="30" y="235" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gCjjUOaTZ7FYgq23CvAP-3" value="教师系统客户端" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="494" y="180" width="160" height="480" as="geometry" />
@@ -65,6 +59,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="370" y="360" as="sourcePoint" />
             <mxPoint x="374" y="298" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gCjjUOaTZ7FYgq23CvAP-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gCjjUOaTZ7FYgq23CvAP-14" target="gCjjUOaTZ7FYgq23CvAP-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="530" as="sourcePoint" />
+            <mxPoint x="430" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
