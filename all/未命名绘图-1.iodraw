@@ -64,8 +64,8 @@
             <mxPoint x="500" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="R3jmyvo8axFVcDzfxefU-16" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="465" y="548" width="50" height="30" as="geometry" />
+        <mxCell id="R3jmyvo8axFVcDzfxefU-16" value="提交负责课程信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="431" y="548" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
