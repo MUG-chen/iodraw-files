@@ -25,7 +25,7 @@
         <mxCell id="-i2w6SdjBUOpGpYOaox8-7" value="查看系统内表项" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="210" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-i2w6SdjBUOpGpYOaox8-8" value="接收查看请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-i2w6SdjBUOpGpYOaox8-8" value="接收查看请求&lt;div&gt;(student_id / teacher_id, table_name)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="467.5" y="278" width="155" height="42" as="geometry" />
         </mxCell>
         <mxCell id="-i2w6SdjBUOpGpYOaox8-9" value="与系统内信息&lt;div&gt;是否匹配&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
