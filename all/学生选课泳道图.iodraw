@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="gCjjUOaTZ7FYgq23CvAP-1" value="学生系统客户端" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="174" y="180" width="160" height="480" as="geometry" />
+          <mxGeometry x="174" y="180" width="160" height="390" as="geometry" />
         </mxCell>
         <mxCell id="gCjjUOaTZ7FYgq23CvAP-4" value="登陆系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="gCjjUOaTZ7FYgq23CvAP-1">
           <mxGeometry x="30" y="40" width="100" height="30" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry x="30" y="310" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gCjjUOaTZ7FYgq23CvAP-2" value="系统数据库服务器" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="334" y="290" width="160" height="260" as="geometry" />
+          <mxGeometry x="334" y="180" width="160" height="390" as="geometry" />
         </mxCell>
         <mxCell id="gCjjUOaTZ7FYgq23CvAP-7" value="服务器调用数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="gCjjUOaTZ7FYgq23CvAP-2">
           <mxGeometry x="30" y="100" width="100" height="30" as="geometry" />
@@ -59,7 +59,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gCjjUOaTZ7FYgq23CvAP-3" value="教师系统客户端" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="494" y="180" width="160" height="480" as="geometry" />
+          <mxGeometry x="494" y="180" width="160" height="390" as="geometry" />
         </mxCell>
         <mxCell id="gCjjUOaTZ7FYgq23CvAP-23" value="更新个人教授课程信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="gCjjUOaTZ7FYgq23CvAP-3">
           <mxGeometry x="30" y="310" width="100" height="30" as="geometry" />
