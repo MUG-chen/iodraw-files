@@ -143,13 +143,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cufbGgQUTXhRJCzmneii-26" value="班级" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="381" y="584.5" width="70" height="40" as="geometry" />
+          <mxGeometry x="382" y="577.5" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cufbGgQUTXhRJCzmneii-28" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="cufbGgQUTXhRJCzmneii-23">
+        <mxCell id="cufbGgQUTXhRJCzmneii-28" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="cufbGgQUTXhRJCzmneii-26" target="cufbGgQUTXhRJCzmneii-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="426" y="490" as="sourcePoint" />
             <mxPoint x="425" y="430" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="cufbGgQUTXhRJCzmneii-29" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="231" y="383" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
