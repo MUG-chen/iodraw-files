@@ -47,7 +47,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="r1x9WK71z1GFOULm7zNQ-18" value="σ(Student.Smajor = &#39;信息管理与信息系统&#39;)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="530" width="160" height="40" as="geometry" />
+          <mxGeometry x="530" y="530" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="r1x9WK71z1GFOULm7zNQ-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="r1x9WK71z1GFOULm7zNQ-3" target="r1x9WK71z1GFOULm7zNQ-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="540" as="sourcePoint" />
+            <mxPoint x="770" y="490" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
