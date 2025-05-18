@@ -46,6 +46,9 @@
             <mxPoint x="490" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="r1x9WK71z1GFOULm7zNQ-18" value="σ(Student.Smajor = &#39;信息管理与信息系统&#39;)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="530" width="160" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
