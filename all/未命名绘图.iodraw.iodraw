@@ -19,8 +19,14 @@
         <mxCell id="r1x9WK71z1GFOULm7zNQ-6" value="SC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="372" y="545" width="84" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="r1x9WK71z1GFOULm7zNQ-7" value="SC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="488" y="545" width="84" height="40" as="geometry" />
+        <mxCell id="r1x9WK71z1GFOULm7zNQ-7" value="Course" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="545" width="84" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="r1x9WK71z1GFOULm7zNQ-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="r1x9WK71z1GFOULm7zNQ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="330" as="sourcePoint" />
+            <mxPoint x="300" y="280" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
