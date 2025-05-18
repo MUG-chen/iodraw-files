@@ -26,10 +26,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="r1x9WK71z1GFOULm7zNQ-13" value="Course" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="312" y="430" width="84" height="40" as="geometry" />
+          <mxGeometry x="270" y="430" width="84" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r1x9WK71z1GFOULm7zNQ-14" value="SC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="700" width="84" height="40" as="geometry" />
+          <mxGeometry x="372" y="530" width="84" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r1x9WK71z1GFOULm7zNQ-15" value="Student" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="650" width="84" height="40" as="geometry" />
