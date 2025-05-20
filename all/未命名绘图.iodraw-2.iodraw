@@ -59,7 +59,10 @@
           <mxGeometry x="520" y="310" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UODis0hbasCZWur9n06Q-16" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.database_server;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="520" y="460" width="35.56" height="40" as="geometry" />
+          <mxGeometry x="537.22" y="420" width="35.56" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UODis0hbasCZWur9n06Q-17" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.document;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="550" y="549" width="47" height="72" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
