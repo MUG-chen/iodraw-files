@@ -31,13 +31,14 @@
             <mxPoint x="403" y="344" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z6WrOvGkFp2s189fQGzd-7" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z6WrOvGkFp2s189fQGzd-2" target="Z6WrOvGkFp2s189fQGzd-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
+        <mxCell id="Z6WrOvGkFp2s189fQGzd-7" value="A" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z6WrOvGkFp2s189fQGzd-2" target="Z6WrOvGkFp2s189fQGzd-1">
+          <mxGeometry x="0.476" y="15" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="440" as="sourcePoint" />
             <mxPoint x="190" y="390" as="targetPoint" />
             <Array as="points">
               <mxPoint x="260" y="320" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
