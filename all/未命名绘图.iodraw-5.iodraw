@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="_sfXFIMM4_FdT3N5EB7E-2" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="210" width="80" height="40" as="geometry" />
+          <mxGeometry x="390" y="220" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sfXFIMM4_FdT3N5EB7E-3" value="输入口令" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="290" width="100" height="40" as="geometry" />
@@ -20,10 +20,10 @@
           <mxGeometry x="370" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_sfXFIMM4_FdT3N5EB7E-6" value="读取文件 input.txt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="500" width="120" height="40" as="geometry" />
+          <mxGeometry x="370" y="450" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sfXFIMM4_FdT3N5EB7E-7" value="&lt;div&gt;SM4Cipher:&lt;/div&gt;&lt;div&gt;encrypt(key, data)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="580" width="120" height="50" as="geometry" />
+          <mxGeometry x="370" y="520" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_sfXFIMM4_FdT3N5EB7E-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_sfXFIMM4_FdT3N5EB7E-3" target="_sfXFIMM4_FdT3N5EB7E-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
