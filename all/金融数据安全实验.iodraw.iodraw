@@ -40,8 +40,14 @@
         <mxCell id="OmPR1WbelVnu9S_-9QuB-9" value="encrypt" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="300" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OmPR1WbelVnu9S_-9QuB-12" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="470" width="120" height="80" as="geometry" />
+        <mxCell id="OmPR1WbelVnu9S_-9QuB-12" value="decrypt" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="410" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OmPR1WbelVnu9S_-9QuB-13" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="455" y="260" as="sourcePoint" />
+            <mxPoint x="504" y="205" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
