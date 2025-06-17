@@ -20,10 +20,10 @@
           <mxGeometry x="370" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_sfXFIMM4_FdT3N5EB7E-6" value="读取文件 input.txt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="550" width="120" height="60" as="geometry" />
+          <mxGeometry x="370" y="520" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sfXFIMM4_FdT3N5EB7E-7" value="&lt;div&gt;SM4Cipher:&lt;/div&gt;&lt;div&gt;encrypt(key, data)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="370" y="650" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
