@@ -64,8 +64,14 @@
         <mxCell id="_sfXFIMM4_FdT3N5EB7E-16" value="保存 decrypted.txt" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="370" y="630" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="_sfXFIMM4_FdT3N5EB7E-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_sfXFIMM4_FdT3N5EB7E-18" target="_sfXFIMM4_FdT3N5EB7E-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_sfXFIMM4_FdT3N5EB7E-18" value="SM3Hash:&lt;div&gt;hash(data)&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="370" y="700" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_sfXFIMM4_FdT3N5EB7E-20" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="810" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
