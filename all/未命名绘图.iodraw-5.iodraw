@@ -82,7 +82,7 @@
         <mxCell id="_sfXFIMM4_FdT3N5EB7E-22" value="保存 input.hmac" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="337.5" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="_sfXFIMM4_FdT3N5EB7E-24" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_sfXFIMM4_FdT3N5EB7E-24" value="HMACUtil:&lt;div&gt;verifyHMAC(data,key,hmac)&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
