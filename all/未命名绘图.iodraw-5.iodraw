@@ -52,8 +52,14 @@
         <mxCell id="_sfXFIMM4_FdT3N5EB7E-12" value="保存 encrypted.dat" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="370" y="600" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="_sfXFIMM4_FdT3N5EB7E-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_sfXFIMM4_FdT3N5EB7E-14" target="_sfXFIMM4_FdT3N5EB7E-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_sfXFIMM4_FdT3N5EB7E-14" value="SM4Cipher:&lt;div&gt;decrypt(key, data)&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="370" y="710" width="120" height="40" as="geometry" />
+          <mxGeometry x="370" y="670" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_sfXFIMM4_FdT3N5EB7E-16" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="780" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
