@@ -64,8 +64,8 @@
         <mxCell id="XRb1sD5Iuf65f3l2POBd-19" value="SRAM-PUF" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="220" y="370" width="112" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XRb1sD5Iuf65f3l2POBd-21" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="414" y="382" width="50" height="30" as="geometry" />
+        <mxCell id="XRb1sD5Iuf65f3l2POBd-21" value=" FPGA-SoC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="399" y="382" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
