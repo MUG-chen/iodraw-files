@@ -32,16 +32,16 @@
           <mxGeometry x="180" y="150" width="210" height="150" as="geometry" />
         </mxCell>
         <mxCell id="XRb1sD5Iuf65f3l2POBd-10" value="TPM&lt;div&gt;管理模块&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="197.5" width="90" height="55" as="geometry" />
+          <mxGeometry x="190" y="197.5" width="90" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="XRb1sD5Iuf65f3l2POBd-11" value="TPM&lt;div&gt;管理模块&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="293" y="197.5" width="90" height="55" as="geometry" />
         </mxCell>
         <mxCell id="XRb1sD5Iuf65f3l2POBd-9" value="" style="endArrow=none;html=1;rounded=0;exitX=-0.002;exitY=0.432;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.995;entryY=0.432;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=12 12;" edge="1" parent="1" source="XRb1sD5Iuf65f3l2POBd-3" target="XRb1sD5Iuf65f3l2POBd-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220" y="260" as="sourcePoint" />
             <mxPoint x="270" y="210" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="XRb1sD5Iuf65f3l2POBd-11" value="TPM&lt;div&gt;管理模块&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="197.5" width="90" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
