@@ -28,6 +28,12 @@
         <mxCell id="XRb1sD5Iuf65f3l2POBd-8" value="&lt;div&gt;内核&lt;/div&gt;&lt;div&gt;空间&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="126" y="230" width="50" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="XRb1sD5Iuf65f3l2POBd-9" value="" style="endArrow=none;html=1;rounded=0;exitX=-0.002;exitY=0.432;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.995;entryY=0.432;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XRb1sD5Iuf65f3l2POBd-3" target="XRb1sD5Iuf65f3l2POBd-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="260" as="sourcePoint" />
+            <mxPoint x="270" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
