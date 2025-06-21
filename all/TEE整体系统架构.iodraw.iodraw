@@ -82,6 +82,9 @@
         <mxCell id="XRb1sD5Iuf65f3l2POBd-27" value="用户节点" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="625" y="150" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="XRb1sD5Iuf65f3l2POBd-28" value="vTPM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="607.5" y="175" width="105" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
