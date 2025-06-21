@@ -25,7 +25,7 @@
         <mxCell id="XRb1sD5Iuf65f3l2POBd-7" value="用户&lt;div&gt;空间&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="126" y="180" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XRb1sD5Iuf65f3l2POBd-8" value="用户&lt;div&gt;空间&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="XRb1sD5Iuf65f3l2POBd-8" value="&lt;div&gt;内核&lt;/div&gt;&lt;div&gt;空间&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="126" y="230" width="50" height="40" as="geometry" />
         </mxCell>
       </root>
