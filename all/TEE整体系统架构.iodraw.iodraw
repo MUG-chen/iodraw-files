@@ -38,7 +38,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XRb1sD5Iuf65f3l2POBd-11" value="TPM&lt;div&gt;管理模块&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="207.5" width="90" height="55" as="geometry" />
+          <mxGeometry x="280" y="197.5" width="90" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="XRb1sD5Iuf65f3l2POBd-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="213" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
