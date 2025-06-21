@@ -101,7 +101,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XRb1sD5Iuf65f3l2POBd-34" value="云FPGA-Soc&lt;div&gt;注册&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="490" y="335" width="90" height="40" as="geometry" />
+          <mxGeometry x="490" y="342" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XRb1sD5Iuf65f3l2POBd-35" value="云FPGA-Soc&lt;div&gt;注册&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="500" y="352" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
