@@ -70,8 +70,8 @@
         <mxCell id="XRb1sD5Iuf65f3l2POBd-23" value="Linux&lt;div&gt;内核&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="396" y="265" width="50" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="XRb1sD5Iuf65f3l2POBd-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="479" y="140" width="61" height="70" as="geometry" />
+        <mxCell id="XRb1sD5Iuf65f3l2POBd-24" value="TPM&lt;div&gt;代理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="396" y="144.5" width="50" height="75.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
