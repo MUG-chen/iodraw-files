@@ -31,6 +31,9 @@
         <mxCell id="XRb1sD5Iuf65f3l2POBd-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="180" y="150" width="210" height="150" as="geometry" />
         </mxCell>
+        <mxCell id="XRb1sD5Iuf65f3l2POBd-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="185" y="215" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="XRb1sD5Iuf65f3l2POBd-10" value="TPM&lt;div&gt;管理模块&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="190" y="197.5" width="90" height="55" as="geometry" />
         </mxCell>
@@ -45,9 +48,6 @@
         </mxCell>
         <mxCell id="XRb1sD5Iuf65f3l2POBd-13" value="OP-TEE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="250" y="275" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="XRb1sD5Iuf65f3l2POBd-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="215" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
