@@ -34,8 +34,8 @@
         <mxCell id="cBAEAWDYfIUBLdIqdhYZ-11" value="可编程逻辑配置&lt;div&gt;访问端口&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="288" y="413" width="86" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cBAEAWDYfIUBLdIqdhYZ-12" value="可编程逻辑配置&lt;div&gt;访问端口&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="299" y="423" width="86" height="30" as="geometry" />
+        <mxCell id="cBAEAWDYfIUBLdIqdhYZ-12" value="CSU&lt;div&gt;直接内存访问&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="358" y="423" width="86" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
