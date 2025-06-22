@@ -20,7 +20,10 @@
           <mxGeometry x="120" y="467.5" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="cBAEAWDYfIUBLdIqdhYZ-6" value="用户IP&lt;sub&gt;1&lt;/sub&gt;" style="whiteSpace=wrap;html=1;fillColor=#dcf0db;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="230" y="467.5" width="80" height="45" as="geometry" />
+          <mxGeometry x="230" y="467.5" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="cBAEAWDYfIUBLdIqdhYZ-7" value="用户IP&lt;sub&gt;1&lt;/sub&gt;" style="whiteSpace=wrap;html=1;fillColor=#dcf0db;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="340" y="467.5" width="90" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
