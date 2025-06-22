@@ -19,7 +19,7 @@
         <mxCell id="cBAEAWDYfIUBLdIqdhYZ-5" value="SRAM-PUF" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="467.5" width="90" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="cBAEAWDYfIUBLdIqdhYZ-6" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cBAEAWDYfIUBLdIqdhYZ-6" value="用户IP1" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="467.5" width="80" height="45" as="geometry" />
         </mxCell>
       </root>
