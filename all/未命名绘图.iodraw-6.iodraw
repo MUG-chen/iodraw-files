@@ -71,7 +71,7 @@
         <mxCell id="cBAEAWDYfIUBLdIqdhYZ-20" value="应用处理单元" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="520" y="136" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cBAEAWDYfIUBLdIqdhYZ-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cBAEAWDYfIUBLdIqdhYZ-21" value="TPM&lt;div&gt;代理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="636" y="170" width="64" height="60" as="geometry" />
         </mxCell>
       </root>
