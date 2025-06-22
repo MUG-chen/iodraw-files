@@ -38,10 +38,10 @@
           <mxGeometry x="386" y="413" width="86" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cBAEAWDYfIUBLdIqdhYZ-13" value="片上内存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="405" width="75" height="30" as="geometry" />
+          <mxGeometry x="200" y="405" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cBAEAWDYfIUBLdIqdhYZ-14" value="平台&lt;div&gt;管理单元&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="135" y="585" width="75" height="30" as="geometry" />
+          <mxGeometry x="110" y="405" width="75" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
