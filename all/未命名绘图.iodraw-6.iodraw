@@ -13,10 +13,10 @@
         <mxCell id="cBAEAWDYfIUBLdIqdhYZ-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="110" y="460" width="370" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cBAEAWDYfIUBLdIqdhYZ-4" value="可编程逻辑" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="403" y="494" width="80" height="30" as="geometry" />
+        <mxCell id="cBAEAWDYfIUBLdIqdhYZ-4" value="可编程逻辑" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="398" y="494" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cBAEAWDYfIUBLdIqdhYZ-5" value="SRAM-PUF" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="cBAEAWDYfIUBLdIqdhYZ-5" value="SRAM-PUF" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="120" y="467.5" width="90" height="45" as="geometry" />
         </mxCell>
       </root>
