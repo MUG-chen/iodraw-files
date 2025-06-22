@@ -8,7 +8,7 @@
           <mxGeometry x="100" y="120" width="530" height="410" as="geometry" />
         </mxCell>
         <mxCell id="cBAEAWDYfIUBLdIqdhYZ-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;FPGA-Soc&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="478" y="503" width="100" height="30" as="geometry" />
+          <mxGeometry x="536" y="504" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cBAEAWDYfIUBLdIqdhYZ-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a4dea1;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="110" y="460" width="370" height="60" as="geometry" />
@@ -62,8 +62,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cBAEAWDYfIUBLdIqdhYZ-18" value="处理系统" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="500" y="430" width="70" height="30" as="geometry" />
+        <mxCell id="cBAEAWDYfIUBLdIqdhYZ-18" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;处理系统&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="495" y="430" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
