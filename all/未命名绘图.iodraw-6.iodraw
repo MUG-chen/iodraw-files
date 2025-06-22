@@ -318,6 +318,12 @@
         <mxCell id="cBAEAWDYfIUBLdIqdhYZ-73" value="安全外部路径" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="706" y="405" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="cBAEAWDYfIUBLdIqdhYZ-74" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="666" y="447" as="sourcePoint" />
+            <mxPoint x="699" y="447" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
