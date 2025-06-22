@@ -13,6 +13,9 @@
         <mxCell id="cBAEAWDYfIUBLdIqdhYZ-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a4dea1;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="110" y="460" width="370" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="cBAEAWDYfIUBLdIqdhYZ-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="130" width="450" height="323" as="geometry" />
+        </mxCell>
         <mxCell id="cBAEAWDYfIUBLdIqdhYZ-4" value="可编程&lt;div&gt;逻辑&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="419" y="477" width="70" height="50" as="geometry" />
         </mxCell>
@@ -58,9 +61,6 @@
               <mxPoint x="190" y="450" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="cBAEAWDYfIUBLdIqdhYZ-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="130" width="450" height="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
