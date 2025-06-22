@@ -306,7 +306,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cBAEAWDYfIUBLdIqdhYZ-71" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cBAEAWDYfIUBLdIqdhYZ-71" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
           <mxGeometry x="674" y="408" width="116" height="102" as="geometry" />
         </mxCell>
       </root>
