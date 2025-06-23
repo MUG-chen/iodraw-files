@@ -32,7 +32,7 @@
           <mxGeometry x="370" y="418" width="92" height="72" as="geometry" />
         </mxCell>
         <mxCell id="XRb1sD5Iuf65f3l2POBd-18" value="可编程逻辑" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="380" y="460" width="80" height="30" as="geometry" />
+          <mxGeometry x="378" y="460" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XRb1sD5Iuf65f3l2POBd-19" value="SRAM-PUF" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="380" y="428" width="76" height="30" as="geometry" />
@@ -69,6 +69,9 @@
             <mxPoint x="673.46" y="420.62" as="sourcePoint" />
             <mxPoint x="673.46" y="390.62" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="EVYGaX_FqC6zDWXjeQxV-5" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="515" y="528" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
