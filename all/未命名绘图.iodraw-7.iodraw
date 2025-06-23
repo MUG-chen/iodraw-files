@@ -46,8 +46,8 @@
             <mxPoint x="270" y="330.62" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2W6EEnmA4G3RcKwMMhxr-14" value="FPGA-SoC TEE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="230" y="395.62" width="110" height="30" as="geometry" />
+        <mxCell id="2W6EEnmA4G3RcKwMMhxr-14" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;FPGA-SoC TEE&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="225" y="395.62" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2W6EEnmA4G3RcKwMMhxr-15" value="可信管理模块 (TMM)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="220" y="286.12" width="130" height="30" as="geometry" />
