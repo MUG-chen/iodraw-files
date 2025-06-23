@@ -70,8 +70,8 @@
             <mxPoint x="673.46" y="390.62" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EVYGaX_FqC6zDWXjeQxV-5" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="515" y="528" width="50" height="30" as="geometry" />
+        <mxCell id="EVYGaX_FqC6zDWXjeQxV-5" value="Ubuntu 22.04 LTS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="528" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
