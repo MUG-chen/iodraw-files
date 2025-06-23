@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" scale="3" border="0" version="24.7.17">
   <diagram name="第 1 页" id="ZZHqasL3LantSV4IYdbx">
-    <mxGraphModel dx="1562" dy="909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="893" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,15 +30,6 @@
         </mxCell>
         <mxCell id="XRb1sD5Iuf65f3l2POBd-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="180" y="270.62" width="210" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="XRb1sD5Iuf65f3l2POBd-14" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
-          <mxGeometry x="185" y="280.62" width="201" height="115" as="geometry" />
-        </mxCell>
-        <mxCell id="XRb1sD5Iuf65f3l2POBd-10" value="TPM&lt;div&gt;管理模块&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="190" y="318.12" width="90" height="55" as="geometry" />
-        </mxCell>
-        <mxCell id="XRb1sD5Iuf65f3l2POBd-11" value="TPM&lt;div&gt;管理模块&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="293" y="318.12" width="90" height="55" as="geometry" />
         </mxCell>
         <mxCell id="XRb1sD5Iuf65f3l2POBd-9" value="" style="endArrow=none;html=1;rounded=0;exitX=-0.002;exitY=0.432;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.995;entryY=0.432;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=12 12;" parent="1" source="XRb1sD5Iuf65f3l2POBd-3" target="XRb1sD5Iuf65f3l2POBd-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
