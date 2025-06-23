@@ -37,7 +37,7 @@
         <mxCell id="2W6EEnmA4G3RcKwMMhxr-11" value="TPM&lt;div&gt;管理模块&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="190" y="318.12" width="90" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="2W6EEnmA4G3RcKwMMhxr-12" value="TPM&lt;div&gt;管理模块&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="2W6EEnmA4G3RcKwMMhxr-12" value="FPGA-SoC&lt;div&gt;管理模块&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="293" y="318.12" width="90" height="55" as="geometry" />
         </mxCell>
         <mxCell id="2W6EEnmA4G3RcKwMMhxr-13" value="" style="endArrow=none;html=1;rounded=0;exitX=-0.002;exitY=0.432;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.995;entryY=0.432;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=12 12;" edge="1" parent="1" source="2W6EEnmA4G3RcKwMMhxr-3" target="2W6EEnmA4G3RcKwMMhxr-3">
