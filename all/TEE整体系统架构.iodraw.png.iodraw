@@ -82,8 +82,8 @@
         <mxCell id="EVYGaX_FqC6zDWXjeQxV-8" value="富执行环境&lt;div&gt;REE&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="270" y="203" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EVYGaX_FqC6zDWXjeQxV-9" value="富执行环境&lt;div&gt;REE&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="280" y="213" width="80" height="40" as="geometry" />
+        <mxCell id="EVYGaX_FqC6zDWXjeQxV-9" value="机密计算环境&lt;div&gt;TEE&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="355" y="203" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
