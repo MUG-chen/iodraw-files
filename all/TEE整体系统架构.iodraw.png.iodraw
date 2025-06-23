@@ -46,8 +46,8 @@
         <mxCell id="XRb1sD5Iuf65f3l2POBd-25" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=5.333384195963504;rotation=-90;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="507.94" y="229.75" width="21.88" height="176.25" as="geometry" />
         </mxCell>
-        <mxCell id="XRb1sD5Iuf65f3l2POBd-27" value="用户节点" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="640" y="203" width="70" height="30" as="geometry" />
+        <mxCell id="XRb1sD5Iuf65f3l2POBd-27" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;用户节点&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="600" y="481.62" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XRb1sD5Iuf65f3l2POBd-28" value="vTPM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="620" y="270" width="110" height="182.38" as="geometry" />
@@ -68,7 +68,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EVYGaX_FqC6zDWXjeQxV-5" value="Ubuntu 22.04 LTS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="620" y="225" width="120" height="30" as="geometry" />
+          <mxGeometry x="591.25" y="500" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EVYGaX_FqC6zDWXjeQxV-6" value="&lt;span style=&quot;line-height: 150%; font-family: 宋体;&quot; lang=&quot;EN-US&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Libtpms v0.9.6&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="618.75" y="422.38" width="110" height="30" as="geometry" />
