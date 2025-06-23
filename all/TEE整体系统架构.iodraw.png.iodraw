@@ -79,8 +79,8 @@
             <mxPoint x="360" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EVYGaX_FqC6zDWXjeQxV-8" value="富执行环境&lt;div&gt;REE&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="270" y="230" width="80" height="40" as="geometry" />
+        <mxCell id="EVYGaX_FqC6zDWXjeQxV-8" value="富执行环境&lt;div&gt;&lt;span style=&quot;line-height: 150%; font-family: 宋体;&quot; lang=&quot;EN-US&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Linux v5.4.0&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="225" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="EVYGaX_FqC6zDWXjeQxV-9" value="机密计算环境&lt;div&gt;TEE&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="360" y="230" width="100" height="40" as="geometry" />
