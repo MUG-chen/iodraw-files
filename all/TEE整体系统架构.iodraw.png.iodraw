@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="XRb1sD5Iuf65f3l2POBd-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="240" y="270" width="234" height="180" as="geometry" />
+          <mxGeometry x="260" y="270" width="214" height="180" as="geometry" />
         </mxCell>
         <mxCell id="XRb1sD5Iuf65f3l2POBd-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="270" y="280" width="200" height="90" as="geometry" />
@@ -32,10 +32,10 @@
           <mxGeometry x="378" y="417" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XRb1sD5Iuf65f3l2POBd-19" value="SRAM-PUF" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="380" y="385" width="76" height="30" as="geometry" />
+          <mxGeometry x="374" y="381.12" width="76" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XRb1sD5Iuf65f3l2POBd-21" value=" FPGA-SoC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="266" y="387" width="80" height="30" as="geometry" />
+          <mxGeometry x="260" y="420" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XRb1sD5Iuf65f3l2POBd-23" value="Linux" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="290" y="295" width="60" height="50" as="geometry" />
