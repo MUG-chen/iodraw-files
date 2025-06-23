@@ -44,13 +44,13 @@
           <mxGeometry x="580" y="233" width="190" height="259.38" as="geometry" />
         </mxCell>
         <mxCell id="XRb1sD5Iuf65f3l2POBd-25" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=5.333384195963504;rotation=-90;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="505.94" y="228.44" width="21.88" height="176.25" as="geometry" />
+          <mxGeometry x="507.94" y="229.75" width="21.88" height="176.25" as="geometry" />
         </mxCell>
         <mxCell id="XRb1sD5Iuf65f3l2POBd-27" value="用户节点" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="640" y="203" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XRb1sD5Iuf65f3l2POBd-28" value="vTPM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="607.5" y="258" width="132.5" height="194.38" as="geometry" />
+          <mxGeometry x="607.5" y="270" width="132.5" height="182.38" as="geometry" />
         </mxCell>
         <mxCell id="EVYGaX_FqC6zDWXjeQxV-1" value="PCR1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="637.5" y="292" width="75" height="21" as="geometry" />
