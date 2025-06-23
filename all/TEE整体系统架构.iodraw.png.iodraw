@@ -56,7 +56,7 @@
           <mxGeometry x="399" y="502.62" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XRb1sD5Iuf65f3l2POBd-23" value="Linux&lt;div&gt;内核&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="396" y="385.62" width="50" height="35" as="geometry" />
+          <mxGeometry x="370" y="363.12" width="50" height="35" as="geometry" />
         </mxCell>
         <mxCell id="XRb1sD5Iuf65f3l2POBd-26" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="580" y="270.62" width="190" height="259.38" as="geometry" />
@@ -81,8 +81,8 @@
         </mxCell>
         <mxCell id="EVYGaX_FqC6zDWXjeQxV-4" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="540" y="450" as="sourcePoint" />
-            <mxPoint x="540" y="420" as="targetPoint" />
+            <mxPoint x="673.46" y="420.62" as="sourcePoint" />
+            <mxPoint x="673.46" y="390.62" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
