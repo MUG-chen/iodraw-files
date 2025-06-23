@@ -28,7 +28,7 @@
         <mxCell id="XRb1sD5Iuf65f3l2POBd-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="370" y="375" width="92" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="XRb1sD5Iuf65f3l2POBd-18" value="可编程逻辑" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="XRb1sD5Iuf65f3l2POBd-18" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;可编程逻辑&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="378" y="417" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XRb1sD5Iuf65f3l2POBd-19" value="SRAM-PUF" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
