@@ -67,8 +67,8 @@
         <mxCell id="h_ZBgSwoSkH76Aulc7aS-20" value="成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="397" y="796" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="h_ZBgSwoSkH76Aulc7aS-21" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="957.5" width="120" height="60" as="geometry" />
+        <mxCell id="h_ZBgSwoSkH76Aulc7aS-21" value="用MasterKey加密ServerFinished" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="920" width="120" height="42.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
