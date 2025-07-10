@@ -59,7 +59,7 @@
           <mxGeometry x="335" y="294" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ji2ZKrpkp8VbuyHEA3dK-18" value="ServerRandom，选择算法&lt;div&gt;Sign_ClientRandom，Cert&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="299" y="313" width="160" height="40" as="geometry" />
+          <mxGeometry x="299" y="324" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ji2ZKrpkp8VbuyHEA3dK-19" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=12 12;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -116,8 +116,8 @@
         <mxCell id="Ji2ZKrpkp8VbuyHEA3dK-31" value="ClientResponse" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="324" y="393" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ji2ZKrpkp8VbuyHEA3dK-32" value="Sign_ServerRandom," style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="309" y="420" width="140" height="30" as="geometry" />
+        <mxCell id="Ji2ZKrpkp8VbuyHEA3dK-32" value="Sign_ServerRandom，Enc_ServerPK(MasterKey)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="234" y="420" width="290" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
