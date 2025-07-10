@@ -216,8 +216,8 @@
             <mxPoint x="520" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ji2ZKrpkp8VbuyHEA3dK-56" value="Enc_MasterKey(&quot;ServerFinished&quot;)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="284" y="519" width="210" height="30" as="geometry" />
+        <mxCell id="Ji2ZKrpkp8VbuyHEA3dK-56" value="Enc_MasterKey(&quot;Hello, Bob&quot;, timestamp)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="259" y="640" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
