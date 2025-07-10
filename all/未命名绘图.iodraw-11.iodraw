@@ -39,7 +39,7 @@
         </mxCell>
         <mxCell id="Ji2ZKrpkp8VbuyHEA3dK-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="450" as="sourcePoint" />
+            <mxPoint x="520" y="320" as="sourcePoint" />
             <mxPoint x="440" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -52,8 +52,8 @@
         <mxCell id="Ji2ZKrpkp8VbuyHEA3dK-14" value="ClientHello" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="340" y="245" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ji2ZKrpkp8VbuyHEA3dK-16" value="ClientRandom, 算法说明" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="305" y="268" width="150" height="30" as="geometry" />
+        <mxCell id="Ji2ZKrpkp8VbuyHEA3dK-16" value="ClientRandom, 支持算法说明" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="268" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
