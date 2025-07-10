@@ -262,7 +262,7 @@
         <mxCell id="xr-S5-SLCuv8qPE-idXh-65" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="880" y="410" width="190" height="232" as="geometry" />
         </mxCell>
-        <mxCell id="xr-S5-SLCuv8qPE-idXh-63" value="ED_SV_HS&lt;div&gt;&lt;div&gt;密码学辅助支持&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="xr-S5-SLCuv8qPE-idXh-65">
+        <mxCell id="xr-S5-SLCuv8qPE-idXh-63" value="ED_SV_HS&lt;div&gt;&lt;div&gt;密码学辅助模块&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;加密 / 解密（ECC / SM4）&lt;/div&gt;&lt;div&gt;签名 / 验签（ECC）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="xr-S5-SLCuv8qPE-idXh-65">
           <mxGeometry width="190" height="232.00000000000003" as="geometry" />
         </mxCell>
         <mxCell id="xr-S5-SLCuv8qPE-idXh-64" value="常瑾瑜" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="xr-S5-SLCuv8qPE-idXh-65">
