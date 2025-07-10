@@ -116,8 +116,8 @@
         <mxCell id="Ji2ZKrpkp8VbuyHEA3dK-31" value="ClientResponse" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="324" y="393" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ji2ZKrpkp8VbuyHEA3dK-32" value="ServerRandom，选择算法，Sign_ClientRandom" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="239" y="420" width="280" height="30" as="geometry" />
+        <mxCell id="Ji2ZKrpkp8VbuyHEA3dK-32" value="Sign_ServerRandom," style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="309" y="420" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
