@@ -16,7 +16,7 @@
         <mxCell id="h_ZBgSwoSkH76Aulc7aS-2" value="接收客户端ClientHello消息" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="305" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h_ZBgSwoSkH76Aulc7aS-4" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="h_ZBgSwoSkH76Aulc7aS-4" value="对客户端随机数ClientRandom签名" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="445" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
