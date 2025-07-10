@@ -4,14 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="xr-S5-SLCuv8qPE-idXh-54" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="530" y="230" width="280" height="355" as="geometry" />
+        </mxCell>
         <mxCell id="xr-S5-SLCuv8qPE-idXh-1" value="Alice&lt;div&gt;Client&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="110" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xr-S5-SLCuv8qPE-idXh-2" value="&lt;div&gt;Bob&lt;/div&gt;&lt;div&gt;Server&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="110" width="80" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="xr-S5-SLCuv8qPE-idXh-54" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="530" y="230" width="280" height="355" as="geometry" />
         </mxCell>
         <mxCell id="xr-S5-SLCuv8qPE-idXh-3" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -237,6 +237,9 @@
         </mxCell>
         <mxCell id="xr-S5-SLCuv8qPE-idXh-53" value="解密消息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="150" y="689" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xr-S5-SLCuv8qPE-idXh-55" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="685" y="608" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
