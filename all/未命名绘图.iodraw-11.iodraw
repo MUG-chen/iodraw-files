@@ -104,8 +104,8 @@
         <mxCell id="Ji2ZKrpkp8VbuyHEA3dK-28" value="通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="125" y="348" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ji2ZKrpkp8VbuyHEA3dK-29" value="报错&lt;div&gt;抛出异常&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="115" y="400" width="70" height="40" as="geometry" />
+        <mxCell id="Ji2ZKrpkp8VbuyHEA3dK-29" value="对ServerRandom签名&lt;div&gt;随机生成MasterKey主密钥&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="400" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
