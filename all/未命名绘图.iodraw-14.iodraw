@@ -277,8 +277,8 @@
         <mxCell id="P--s8Cgwgy-ibODG9yis-67" value="陈瀚明" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="P--s8Cgwgy-ibODG9yis-65">
           <mxGeometry x="130" y="184.58316091954023" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="P--s8Cgwgy-ibODG9yis-68" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1125" y="468" width="50" height="30" as="geometry" />
+        <mxCell id="P--s8Cgwgy-ibODG9yis-68" value="&lt;span style=&quot;text-wrap: wrap;&quot;&gt;ED_SV_HS&lt;/span&gt;&lt;div style=&quot;text-wrap: wrap;&quot;&gt;密码学辅助模块&lt;/div&gt;&lt;div style=&quot;text-wrap: wrap;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: wrap;&quot;&gt;加密 / 解密（ECC / SM4）&lt;/div&gt;&lt;div style=&quot;text-wrap: wrap;&quot;&gt;签名 / 验签（ECC）&lt;/div&gt;&lt;div style=&quot;text-wrap: wrap;&quot;&gt;哈希（SHA-256）&lt;/div&gt;&lt;div style=&quot;text-wrap: wrap;&quot;&gt;随机数生成（Random_Gen）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="440" width="180" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
