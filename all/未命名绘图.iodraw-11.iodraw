@@ -229,6 +229,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Ji2ZKrpkp8VbuyHEA3dK-58" value="Enc_MasterKey(&quot;Hello, Bob&quot;, timestamp)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="257" y="700" width="240" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
