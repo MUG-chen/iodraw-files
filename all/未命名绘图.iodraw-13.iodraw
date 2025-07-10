@@ -43,11 +43,14 @@
         <mxCell id="h_ZBgSwoSkH76Aulc7aS-12" value="收到客户端回应ClientResponse" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="325" y="700" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="h_ZBgSwoSkH76Aulc7aS-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="h_ZBgSwoSkH76Aulc7aS-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="h_ZBgSwoSkH76Aulc7aS-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="620" y="760" as="sourcePoint" />
-            <mxPoint x="670" y="710" as="targetPoint" />
+            <mxPoint x="640" y="735" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="h_ZBgSwoSkH76Aulc7aS-15" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="515" y="698" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
