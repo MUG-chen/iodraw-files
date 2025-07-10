@@ -214,6 +214,12 @@
         <mxCell id="Ji2ZKrpkp8VbuyHEA3dK-53" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;安全通信&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-140" y="660" width="90" height="59" as="geometry" />
         </mxCell>
+        <mxCell id="Ji2ZKrpkp8VbuyHEA3dK-54" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="620" as="sourcePoint" />
+            <mxPoint x="230" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
