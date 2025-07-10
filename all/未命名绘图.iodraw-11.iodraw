@@ -85,7 +85,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ji2ZKrpkp8VbuyHEA3dK-22" value="验证服务端的签名" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="40" y="329" width="120" height="30" as="geometry" />
+          <mxGeometry x="30" y="310" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
