@@ -7,6 +7,9 @@
         <mxCell id="xr-S5-SLCuv8qPE-idXh-54" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="530" y="230" width="280" height="355" as="geometry" />
         </mxCell>
+        <mxCell id="xr-S5-SLCuv8qPE-idXh-57" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-15" y="253" width="235" height="187" as="geometry" />
+        </mxCell>
         <mxCell id="xr-S5-SLCuv8qPE-idXh-1" value="Alice&lt;div&gt;Client&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="110" width="80" height="50" as="geometry" />
         </mxCell>
@@ -109,9 +112,6 @@
         </mxCell>
         <mxCell id="xr-S5-SLCuv8qPE-idXh-24" value="对ServerRandom签名&lt;div&gt;随机生成MasterKey主密钥&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="70" y="400" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="xr-S5-SLCuv8qPE-idXh-57" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-15" y="253" width="235" height="187" as="geometry" />
         </mxCell>
         <mxCell id="xr-S5-SLCuv8qPE-idXh-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.021;exitY=0.483;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="xr-S5-SLCuv8qPE-idXh-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -243,6 +243,9 @@
         </mxCell>
         <mxCell id="xr-S5-SLCuv8qPE-idXh-55" value="陈瀚明" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="750" y="555" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xr-S5-SLCuv8qPE-idXh-58" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-65" y="248" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
