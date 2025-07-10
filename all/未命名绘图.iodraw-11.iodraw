@@ -173,8 +173,11 @@
         <mxCell id="Ji2ZKrpkp8VbuyHEA3dK-45" value="ClientFinished" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="327" y="544" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ji2ZKrpkp8VbuyHEA3dK-46" value="Enc_MasterKey(&quot;ServerFinished&quot;)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="274" y="570" width="210" height="30" as="geometry" />
+        <mxCell id="Ji2ZKrpkp8VbuyHEA3dK-46" value="Enc_MasterKey(&quot;ClientFinished&quot;)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="279" y="570" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji2ZKrpkp8VbuyHEA3dK-47" value="验证客户端的签名" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="529" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
