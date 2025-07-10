@@ -35,19 +35,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h_ZBgSwoSkH76Aulc7aS-8" value="构建ServerHello消息&lt;div&gt;(ServerRandom, Sig_ClientRandom, Cert)&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="525" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h_ZBgSwoSkH76Aulc7aS-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h_ZBgSwoSkH76Aulc7aS-10" target="h_ZBgSwoSkH76Aulc7aS-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h_ZBgSwoSkH76Aulc7aS-10" value="发送至客户端" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="630" width="120" height="35" as="geometry" />
+          <mxGeometry x="340" y="560" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="h_ZBgSwoSkH76Aulc7aS-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h_ZBgSwoSkH76Aulc7aS-12" target="h_ZBgSwoSkH76Aulc7aS-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h_ZBgSwoSkH76Aulc7aS-12" value="收到客户端回应ClientResponse&lt;div&gt;验证签名&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="325" y="700" width="150" height="70" as="geometry" />
+          <mxGeometry x="325" y="680" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="h_ZBgSwoSkH76Aulc7aS-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="h_ZBgSwoSkH76Aulc7aS-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
