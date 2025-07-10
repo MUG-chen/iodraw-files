@@ -16,6 +16,9 @@
             <mxPoint x="640" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Ji2ZKrpkp8VbuyHEA3dK-4" value="拥有&lt;div&gt;变量&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="55" y="183" width="50" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
