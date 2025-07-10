@@ -110,6 +110,9 @@
         <mxCell id="xr-S5-SLCuv8qPE-idXh-24" value="对ServerRandom签名&lt;div&gt;随机生成MasterKey主密钥&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="70" y="400" width="160" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="xr-S5-SLCuv8qPE-idXh-57" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-15" y="253" width="235" height="187" as="geometry" />
+        </mxCell>
         <mxCell id="xr-S5-SLCuv8qPE-idXh-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.021;exitY=0.483;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="xr-S5-SLCuv8qPE-idXh-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="300" y="440" as="sourcePoint" />
@@ -221,9 +224,6 @@
         </mxCell>
         <mxCell id="xr-S5-SLCuv8qPE-idXh-50" value="Enc_MasterKey(&quot;Hello, Bob&quot;, timestamp)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="259" y="640" width="240" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="xr-S5-SLCuv8qPE-idXh-57" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-15" y="253" width="235" height="187" as="geometry" />
         </mxCell>
         <mxCell id="xr-S5-SLCuv8qPE-idXh-51" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=12 12;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
