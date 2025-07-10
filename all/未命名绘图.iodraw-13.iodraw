@@ -40,8 +40,8 @@
         <mxCell id="h_ZBgSwoSkH76Aulc7aS-10" value="发送至客户端" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="630" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="h_ZBgSwoSkH76Aulc7aS-12" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="722.5" width="80" height="80" as="geometry" />
+        <mxCell id="h_ZBgSwoSkH76Aulc7aS-12" value="收到客户端回应ClientResponse" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="722.5" width="150" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
