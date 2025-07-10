@@ -1,0 +1,76 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="FFboyiy7k-D-Epynemc3">
+    <mxGraphModel dx="1221" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="azeeTpc0pz83HyQhznoA-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="414" y="210" width="346" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="azeeTpc0pz83HyQhznoA-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DBECFF;strokeColor=#6c8ebf;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="210" width="210" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="azeeTpc0pz83HyQhznoA-1" value="握手&lt;div&gt;密钥交换&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="250" width="96" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="azeeTpc0pz83HyQhznoA-2" value="&lt;font face=&quot;Helvetica&quot;&gt;客户端&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;FOSo5Gg7255cSCUITREH&quot;&gt;通信控制模块&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot; lang=&quot;EN-US&quot;&gt;&lt;font face=&quot;FOSo5Gg7255cSCUITREH&quot; style=&quot;font-size: 12px;&quot;&gt;Client&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot; lang=&quot;EN-US&quot;&gt;&lt;font face=&quot;FOSo5Gg7255cSCUITREH&quot; style=&quot;font-size: 12px;&quot;&gt;Application.java&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="310" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="azeeTpc0pz83HyQhznoA-4" value="安全通信" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="347" y="400" width="102" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="azeeTpc0pz83HyQhznoA-6" value="&lt;div&gt;服务端&lt;/div&gt;&lt;div&gt;通信控制模块&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Helvetica&quot;&gt;Server.java&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="310" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="azeeTpc0pz83HyQhznoA-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="azeeTpc0pz83HyQhznoA-1" target="azeeTpc0pz83HyQhznoA-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="500" as="sourcePoint" />
+            <mxPoint x="280" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="azeeTpc0pz83HyQhznoA-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="azeeTpc0pz83HyQhznoA-2" target="azeeTpc0pz83HyQhznoA-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="570" as="sourcePoint" />
+            <mxPoint x="320" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="azeeTpc0pz83HyQhznoA-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="azeeTpc0pz83HyQhznoA-2" target="azeeTpc0pz83HyQhznoA-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="360" as="sourcePoint" />
+            <mxPoint x="360" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="azeeTpc0pz83HyQhznoA-11" value="控制" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="297" y="335" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="azeeTpc0pz83HyQhznoA-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="azeeTpc0pz83HyQhznoA-6" target="azeeTpc0pz83HyQhznoA-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="450" as="sourcePoint" />
+            <mxPoint x="550.7106781186548" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="azeeTpc0pz83HyQhznoA-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="azeeTpc0pz83HyQhznoA-6" target="azeeTpc0pz83HyQhznoA-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="524" y="500" as="sourcePoint" />
+            <mxPoint x="480" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="azeeTpc0pz83HyQhznoA-14" value="控制" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="446" y="335" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="azeeTpc0pz83HyQhznoA-16" value="陈周涵，褚雅琴，徐璇" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="170" y="450" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="azeeTpc0pz83HyQhznoA-17" value="常瑾瑜，陈瀚明" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="514" y="450" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="azeeTpc0pz83HyQhznoA-18" value="KeyForge&lt;div&gt;密钥生成&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="670" y="230" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="azeeTpc0pz83HyQhznoA-19" value="&lt;span style=&quot;&quot; lang=&quot;EN-US&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;ED_SV_HS&lt;/font&gt;&lt;/span&gt;&lt;div&gt;密码学辅助模块&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="670" y="400" width="70" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
