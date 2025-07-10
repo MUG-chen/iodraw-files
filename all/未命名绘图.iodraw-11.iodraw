@@ -177,9 +177,9 @@
           <mxGeometry x="279" y="570" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ji2ZKrpkp8VbuyHEA3dK-47" value="解密消息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="45" y="529" width="70" height="30" as="geometry" />
+          <mxGeometry x="100" y="529" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ji2ZKrpkp8VbuyHEA3dK-48" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+        <mxCell id="Ji2ZKrpkp8VbuyHEA3dK-48" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=1 1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="230" y="510" as="sourcePoint" />
             <mxPoint x="230" y="570" as="targetPoint" />
