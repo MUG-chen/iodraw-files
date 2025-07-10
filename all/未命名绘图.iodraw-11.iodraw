@@ -233,7 +233,7 @@
           <mxGeometry x="252" y="700" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ji2ZKrpkp8VbuyHEA3dK-59" value="解密消息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="600" y="670" width="70" height="30" as="geometry" />
+          <mxGeometry x="150" y="689" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
