@@ -161,8 +161,8 @@
         <mxCell id="Ji2ZKrpkp8VbuyHEA3dK-42" value="ServerFinished" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="327" y="484" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ji2ZKrpkp8VbuyHEA3dK-43" value="Sign_ServerRandom，&lt;div&gt;Enc_ServerPK(MasterKey)，&lt;span style=&quot;background-color: initial;&quot;&gt;Cert&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="290" y="429" width="200" height="40" as="geometry" />
+        <mxCell id="Ji2ZKrpkp8VbuyHEA3dK-43" value="Enc_MasterKey(&quot;ServerFinished&quot;)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="274" y="515" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
