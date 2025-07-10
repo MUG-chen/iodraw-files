@@ -125,6 +125,9 @@
             <mxPoint x="590" y="419" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Ji2ZKrpkp8VbuyHEA3dK-34" value="验证客户端的签名" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600" y="405" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
