@@ -192,12 +192,15 @@
         <mxCell id="Ji2ZKrpkp8VbuyHEA3dK-49" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=8 8;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="570" as="sourcePoint" />
-            <mxPoint x="700" y="680" as="targetPoint" />
+            <mxPoint x="520" y="620" as="targetPoint" />
             <Array as="points">
               <mxPoint x="580" y="570" />
-              <mxPoint x="640" y="680" />
+              <mxPoint x="580" y="620" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Ji2ZKrpkp8VbuyHEA3dK-50" value="解密消息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="539" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
