@@ -59,7 +59,10 @@
           <mxGeometry x="446" y="335" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="azeeTpc0pz83HyQhznoA-16" value="陈周涵，褚雅琴，徐璇" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="170" y="488" width="140" height="30" as="geometry" />
+          <mxGeometry x="170" y="450" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="azeeTpc0pz83HyQhznoA-17" value="常瑾瑜，陈瀚明" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="514" y="450" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
