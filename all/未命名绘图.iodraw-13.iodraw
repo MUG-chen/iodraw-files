@@ -34,8 +34,14 @@
         <mxCell id="h_ZBgSwoSkH76Aulc7aS-8" value="构建ServerHello消息&lt;div&gt;(ServerRandom, Sig_ClientRandom, Cert)&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="525" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="h_ZBgSwoSkH76Aulc7aS-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h_ZBgSwoSkH76Aulc7aS-10" target="h_ZBgSwoSkH76Aulc7aS-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="h_ZBgSwoSkH76Aulc7aS-10" value="发送至客户端" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="665" width="120" height="35" as="geometry" />
+          <mxGeometry x="340" y="630" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="h_ZBgSwoSkH76Aulc7aS-12" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="722.5" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
