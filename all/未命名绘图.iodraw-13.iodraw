@@ -10,8 +10,14 @@
         <mxCell id="h_ZBgSwoSkH76Aulc7aS-1" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="180" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="h_ZBgSwoSkH76Aulc7aS-2" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="h_ZBgSwoSkH76Aulc7aS-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h_ZBgSwoSkH76Aulc7aS-2" target="h_ZBgSwoSkH76Aulc7aS-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h_ZBgSwoSkH76Aulc7aS-2" value="接收客户端ClientHello消息" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="305" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h_ZBgSwoSkH76Aulc7aS-4" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="445" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
