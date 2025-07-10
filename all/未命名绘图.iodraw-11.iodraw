@@ -229,8 +229,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ji2ZKrpkp8VbuyHEA3dK-58" value="Enc_MasterKey(&quot;Hello, Bob&quot;, timestamp)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="257" y="700" width="240" height="30" as="geometry" />
+        <mxCell id="Ji2ZKrpkp8VbuyHEA3dK-58" value="Enc_MasterKey(&quot;Hello, Alice&quot;, timestamp)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="252" y="700" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ji2ZKrpkp8VbuyHEA3dK-59" value="解密消息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600" y="670" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
