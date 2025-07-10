@@ -1,0 +1,283 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="PfNUFqREdlfD-UHE54TW">
+    <mxGraphModel dx="2048" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="P--s8Cgwgy-ibODG9yis-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="50" y="613" width="600" height="127" as="geometry" />
+        </mxCell>
+        <mxCell id="P--s8Cgwgy-ibODG9yis-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="530" y="230" width="280" height="355" as="geometry" />
+        </mxCell>
+        <mxCell id="P--s8Cgwgy-ibODG9yis-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-15" y="253" width="235" height="187" as="geometry" />
+        </mxCell>
+        <mxCell id="P--s8Cgwgy-ibODG9yis-4" value="Alice&lt;div&gt;Client&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="110" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P--s8Cgwgy-ibODG9yis-5" value="&lt;div&gt;Bob&lt;/div&gt;&lt;div&gt;Server&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="110" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P--s8Cgwgy-ibODG9yis-6" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="170" as="sourcePoint" />
+            <mxPoint x="640" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P--s8Cgwgy-ibODG9yis-7" value="拥有&lt;div&gt;变量&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="55" y="183" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P--s8Cgwgy-ibODG9yis-8" value="ClientPK&lt;div&gt;ClientSK&lt;/div&gt;&lt;div&gt;ServerPK&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="195" y="173" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P--s8Cgwgy-ibODG9yis-9" value="ClientPK&lt;div&gt;ClientSK&lt;/div&gt;&lt;div&gt;ServerPK&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="485" y="173" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P--s8Cgwgy-ibODG9yis-10" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.486;entryY=1.039;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="P--s8Cgwgy-ibODG9yis-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="750" as="sourcePoint" />
+            <mxPoint x="270" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P--s8Cgwgy-ibODG9yis-11" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.533;entryY=1.039;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="P--s8Cgwgy-ibODG9yis-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="522" y="750" as="sourcePoint" />
+            <mxPoint x="239" y="245" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P--s8Cgwgy-ibODG9yis-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="320" as="sourcePoint" />
+            <mxPoint x="230" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P--s8Cgwgy-ibODG9yis-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="231" y="270" as="sourcePoint" />
+            <mxPoint x="521" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P--s8Cgwgy-ibODG9yis-14" value="ClientHello" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="245" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P--s8Cgwgy-ibODG9yis-15" value="ClientRandom, 支持算法说明" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="268" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P--s8Cgwgy-ibODG9yis-16" value="ServerHello" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="335" y="294" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P--s8Cgwgy-ibODG9yis-17" value="ServerRandom，选择算法&lt;div&gt;Sign_ClientRandom，Cert&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="299" y="324" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P--s8Cgwgy-ibODG9yis-18" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=12 12;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="270" as="sourcePoint" />
+            <mxPoint x="520" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="590" y="270" />
+              <mxPoint x="590" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P--s8Cgwgy-ibODG9yis-19" value="生成随机数ServerRandom&lt;div&gt;对客户端随机数ClientRandom签名&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="590" y="275" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P--s8Cgwgy-ibODG9yis-20" value="验证服务端的签名" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="310" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P--s8Cgwgy-ibODG9yis-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.447;exitY=1.022;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="P--s8Cgwgy-ibODG9yis-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="460" as="sourcePoint" />
+            <mxPoint x="30" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P--s8Cgwgy-ibODG9yis-22" value="未通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry y="348" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P--s8Cgwgy-ibODG9yis-23" value="报错&lt;div&gt;抛出异常&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="400" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P--s8Cgwgy-ibODG9yis-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=1.039;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="P--s8Cgwgy-ibODG9yis-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="320" as="sourcePoint" />
+            <mxPoint x="230" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P--s8Cgwgy-ibODG9yis-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.644;exitY=1.111;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="P--s8Cgwgy-ibODG9yis-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="440" as="sourcePoint" />
+            <mxPoint x="150" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P--s8Cgwgy-ibODG9yis-26" value="通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="125" y="348" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P--s8Cgwgy-ibODG9yis-27" value="对ServerRandom签名&lt;div&gt;随机生成MasterKey主密钥&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="400" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P--s8Cgwgy-ibODG9yis-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.021;exitY=0.483;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="P--s8Cgwgy-ibODG9yis-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="440" as="sourcePoint" />
+            <mxPoint x="520" y="419" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P--s8Cgwgy-ibODG9yis-29" value="ClientResponse" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="324" y="393" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P--s8Cgwgy-ibODG9yis-30" value="Sign_ServerRandom，&lt;div&gt;Enc_ServerPK(MasterKey)，&lt;span style=&quot;background-color: initial;&quot;&gt;Cert&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="419" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P--s8Cgwgy-ibODG9yis-31" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="419" as="sourcePoint" />
+            <mxPoint x="590" y="419" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P--s8Cgwgy-ibODG9yis-32" value="验证客户端的签名" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600" y="405" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P--s8Cgwgy-ibODG9yis-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.447;exitY=1.022;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="644" y="435" as="sourcePoint" />
+            <mxPoint x="590" y="494" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P--s8Cgwgy-ibODG9yis-34" value="未通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="440" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P--s8Cgwgy-ibODG9yis-35" value="报错&lt;div&gt;抛出异常&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="685" y="494" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P--s8Cgwgy-ibODG9yis-36" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="70" y="484" width="140" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="P--s8Cgwgy-ibODG9yis-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.644;exitY=1.111;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="667" y="437" as="sourcePoint" />
+            <mxPoint x="710" y="494" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P--s8Cgwgy-ibODG9yis-38" value="通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="570" y="440" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P--s8Cgwgy-ibODG9yis-39" value="解密，得到MasterKey" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="535" y="499" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P--s8Cgwgy-ibODG9yis-40" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="510" as="sourcePoint" />
+            <mxPoint x="230" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P--s8Cgwgy-ibODG9yis-41" value="ServerFinished" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="327" y="484" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P--s8Cgwgy-ibODG9yis-42" value="Enc_MasterKey(&quot;ServerFinished&quot;)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="274" y="509" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P--s8Cgwgy-ibODG9yis-43" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="570" as="sourcePoint" />
+            <mxPoint x="520" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P--s8Cgwgy-ibODG9yis-44" value="ClientFinished" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="327" y="544" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P--s8Cgwgy-ibODG9yis-45" value="Enc_MasterKey(&quot;ClientFinished&quot;)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="279" y="570" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P--s8Cgwgy-ibODG9yis-46" value="解密消息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="529" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P--s8Cgwgy-ibODG9yis-47" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=8 8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="510" as="sourcePoint" />
+            <mxPoint x="230" y="570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="170" y="510" />
+              <mxPoint x="170" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P--s8Cgwgy-ibODG9yis-48" value="解密消息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="590" y="660" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P--s8Cgwgy-ibODG9yis-49" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="600" as="sourcePoint" />
+            <mxPoint x="640" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P--s8Cgwgy-ibODG9yis-50" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;握手&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;密钥交换&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="360" width="90" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="P--s8Cgwgy-ibODG9yis-51" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;安全通信&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="660" width="90" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="P--s8Cgwgy-ibODG9yis-52" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="700" as="sourcePoint" />
+            <mxPoint x="230" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P--s8Cgwgy-ibODG9yis-53" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="640" as="sourcePoint" />
+            <mxPoint x="520" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P--s8Cgwgy-ibODG9yis-54" value="Enc_MasterKey(&quot;Hello, Bob&quot;, timestamp)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="259" y="640" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P--s8Cgwgy-ibODG9yis-55" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=12 12;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="640" as="sourcePoint" />
+            <mxPoint x="520" y="700" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="590" y="640" />
+              <mxPoint x="590" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P--s8Cgwgy-ibODG9yis-56" value="Enc_MasterKey(&quot;Hello, Alice&quot;, timestamp)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="252" y="700" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P--s8Cgwgy-ibODG9yis-57" value="解密消息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="689" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P--s8Cgwgy-ibODG9yis-58" value="陈瀚明" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="750" y="555" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P--s8Cgwgy-ibODG9yis-59" value="徐璇" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-15" y="253" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P--s8Cgwgy-ibODG9yis-60" value="陈周涵" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="484" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P--s8Cgwgy-ibODG9yis-61" value="褚雅琴" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="710" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P--s8Cgwgy-ibODG9yis-62" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="870" y="490" width="190" height="212" as="geometry" />
+        </mxCell>
+        <mxCell id="P--s8Cgwgy-ibODG9yis-63" value="ED_SV_HS&lt;div&gt;&lt;div&gt;密码学辅助模块&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;加密 / 解密（ECC / SM4）&lt;/div&gt;&lt;div&gt;签名 / 验签（ECC）&lt;/div&gt;&lt;div&gt;哈希（SHA-256）&lt;/div&gt;&lt;div&gt;随机数生成（Random_Gen）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="P--s8Cgwgy-ibODG9yis-62">
+          <mxGeometry width="190" height="212.00000000000003" as="geometry" />
+        </mxCell>
+        <mxCell id="P--s8Cgwgy-ibODG9yis-64" value="常瑾瑜" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="P--s8Cgwgy-ibODG9yis-62">
+          <mxGeometry x="130" y="184.58316091954023" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P--s8Cgwgy-ibODG9yis-65" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="870" y="250" width="190" height="214.58316091954023" as="geometry" />
+        </mxCell>
+        <mxCell id="P--s8Cgwgy-ibODG9yis-66" value="KeyForge&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;密钥生成模块&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;密钥生成（ECC / SM4）&lt;/div&gt;&lt;/div&gt;&lt;div&gt;密钥与字符串的转化（ECC_PK / ECC_SK）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="P--s8Cgwgy-ibODG9yis-65">
+          <mxGeometry width="190" height="212.00000000000003" as="geometry" />
+        </mxCell>
+        <mxCell id="P--s8Cgwgy-ibODG9yis-67" value="陈瀚明" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="P--s8Cgwgy-ibODG9yis-65">
+          <mxGeometry x="130" y="184.58316091954023" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
