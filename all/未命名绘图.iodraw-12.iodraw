@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="azeeTpc0pz83HyQhznoA-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="210" width="220" height="180" as="geometry" />
+        <mxCell id="azeeTpc0pz83HyQhznoA-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="170" y="210" width="210" height="280" as="geometry" />
         </mxCell>
         <mxCell id="azeeTpc0pz83HyQhznoA-1" value="握手&lt;div&gt;密钥交换&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="250" width="96" height="40" as="geometry" />
