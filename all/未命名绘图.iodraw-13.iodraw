@@ -40,7 +40,7 @@
         <mxCell id="h_ZBgSwoSkH76Aulc7aS-10" value="发送至客户端" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="630" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="h_ZBgSwoSkH76Aulc7aS-12" value="收到客户端回应ClientResponse" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="h_ZBgSwoSkH76Aulc7aS-12" value="收到客户端回应ClientResponse&lt;div&gt;验证签名&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="325" y="700" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="h_ZBgSwoSkH76Aulc7aS-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="h_ZBgSwoSkH76Aulc7aS-12">
