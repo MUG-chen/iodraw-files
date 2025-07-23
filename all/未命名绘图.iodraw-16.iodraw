@@ -32,10 +32,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UBqKX7tD0xY_xcaAsivJ-10" value="外部设备&lt;div&gt;（轮椅 / 机械臂等）&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="325" y="585" width="120" height="60" as="geometry" />
+          <mxGeometry x="542.5" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UBqKX7tD0xY_xcaAsivJ-11" value="反馈、结果&lt;div&gt;（听觉 / 视觉 / 触觉）&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="325" y="700" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UBqKX7tD0xY_xcaAsivJ-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="360" as="sourcePoint" />
+            <mxPoint x="240" y="310" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
