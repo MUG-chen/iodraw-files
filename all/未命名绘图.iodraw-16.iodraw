@@ -1,0 +1,43 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="OG2Tpc8-jaqdKl-N87If">
+    <mxGraphModel dx="1221" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UBqKX7tD0xY_xcaAsivJ-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UBqKX7tD0xY_xcaAsivJ-2" target="UBqKX7tD0xY_xcaAsivJ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UBqKX7tD0xY_xcaAsivJ-2" value="信号采集&lt;div&gt;（EEG设备）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UBqKX7tD0xY_xcaAsivJ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UBqKX7tD0xY_xcaAsivJ-4" target="UBqKX7tD0xY_xcaAsivJ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UBqKX7tD0xY_xcaAsivJ-4" value="预处理&lt;div&gt;（滤波、伪影去除）&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UBqKX7tD0xY_xcaAsivJ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UBqKX7tD0xY_xcaAsivJ-6" target="UBqKX7tD0xY_xcaAsivJ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UBqKX7tD0xY_xcaAsivJ-6" value="特征提取&lt;div&gt;（时域 / 频域 / 空域）&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UBqKX7tD0xY_xcaAsivJ-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UBqKX7tD0xY_xcaAsivJ-8" target="UBqKX7tD0xY_xcaAsivJ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UBqKX7tD0xY_xcaAsivJ-8" value="分类 / 解码&lt;div&gt;（机器学习 / 深度学习模型）&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="302.5" y="470" width="165" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UBqKX7tD0xY_xcaAsivJ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UBqKX7tD0xY_xcaAsivJ-10" target="UBqKX7tD0xY_xcaAsivJ-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UBqKX7tD0xY_xcaAsivJ-10" value="外部设备&lt;div&gt;（轮椅 / 机械臂等）&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UBqKX7tD0xY_xcaAsivJ-11" value="反馈、结果&lt;div&gt;（听觉 / 视觉 / 触觉）&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
