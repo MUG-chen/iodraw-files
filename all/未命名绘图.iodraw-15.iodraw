@@ -19,7 +19,7 @@
         <mxCell id="AB-F9vJpLSnYKKy4SHbP-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AB-F9vJpLSnYKKy4SHbP-7" target="AB-F9vJpLSnYKKy4SHbP-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AB-F9vJpLSnYKKy4SHbP-7" value="特征提取&lt;div&gt;时域 / 频域 / 空域&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="AB-F9vJpLSnYKKy4SHbP-7" value="特征提取&lt;div&gt;（时域 / 频域 / 空域）&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="325" y="435" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AB-F9vJpLSnYKKy4SHbP-9" value="分类 / 解码&lt;div&gt;机器学习&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
