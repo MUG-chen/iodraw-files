@@ -5,7 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="AB-F9vJpLSnYKKy4SHbP-1" value="信号采集&lt;div&gt;（EEG设备）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="170" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AB-F9vJpLSnYKKy4SHbP-2" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="410" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
